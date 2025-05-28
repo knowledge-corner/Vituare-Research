@@ -1,0 +1,5120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <Date>2023-01-01 00:00:00</Date>
+    <Revenue>1007450.71</Revenue>
+    <Sales>58406.47</Sales>
+    <Stock_Price>5853.68</Stock_Price>
+  </row>
+  <row>
+    <index>1</index>
+    <Date>2023-01-02 00:00:00</Date>
+    <Revenue>997926.04</Revenue>
+    <Sales>64990.7</Sales>
+    <Stock_Price>5404.64</Stock_Price>
+  </row>
+  <row>
+    <index>2</index>
+    <Date>2023-01-03 00:00:00</Date>
+    <Revenue>1009715.33</Revenue>
+    <Sales>82831.01</Sales>
+    <Stock_Price>5593.63</Stock_Price>
+  </row>
+  <row>
+    <index>3</index>
+    <Date>2023-01-04 00:00:00</Date>
+    <Revenue>1022845.45</Revenue>
+    <Sales>66873.38</Sales>
+    <Stock_Price>6412.0</Stock_Price>
+  </row>
+  <row>
+    <index>4</index>
+    <Date>2023-01-05 00:00:00</Date>
+    <Revenue>996487.7</Revenue>
+    <Sales>92532.67</Sales>
+    <Stock_Price>7168.93</Stock_Price>
+  </row>
+  <row>
+    <index>5</index>
+    <Date>2023-01-06 00:00:00</Date>
+    <Revenue>996487.95</Revenue>
+    <Sales>57413.85</Sales>
+    <Stock_Price>6276.27</Stock_Price>
+  </row>
+  <row>
+    <index>6</index>
+    <Date>2023-01-07 00:00:00</Date>
+    <Revenue>1023688.19</Revenue>
+    <Sales>50875.66</Sales>
+    <Stock_Price>5162.88</Stock_Price>
+  </row>
+  <row>
+    <index>7</index>
+    <Date>2023-01-08 00:00:00</Date>
+    <Revenue>1011511.52</Revenue>
+    <Sales>44898.2</Sales>
+    <Stock_Price>6311.22</Stock_Price>
+  </row>
+  <row>
+    <index>8</index>
+    <Date>2023-01-09 00:00:00</Date>
+    <Revenue>992957.88</Revenue>
+    <Sales>39519.33</Sales>
+    <Stock_Price>6837.64</Stock_Price>
+  </row>
+  <row>
+    <index>9</index>
+    <Date>2023-01-10 00:00:00</Date>
+    <Revenue>1008138.4</Revenue>
+    <Sales>65919.96</Sales>
+    <Stock_Price>5573.15</Stock_Price>
+  </row>
+  <row>
+    <index>10</index>
+    <Date>2023-01-11 00:00:00</Date>
+    <Revenue>993048.73</Revenue>
+    <Sales>70355.99</Sales>
+    <Stock_Price>5906.19</Stock_Price>
+  </row>
+  <row>
+    <index>11</index>
+    <Date>2023-01-12 00:00:00</Date>
+    <Revenue>993014.05</Revenue>
+    <Sales>63715.7</Sales>
+    <Stock_Price>6010.28</Stock_Price>
+  </row>
+  <row>
+    <index>12</index>
+    <Date>2023-01-13 00:00:00</Date>
+    <Revenue>1003629.43</Revenue>
+    <Sales>111819.26</Sales>
+    <Stock_Price>5450.57</Stock_Price>
+  </row>
+  <row>
+    <index>13</index>
+    <Date>2023-01-14 00:00:00</Date>
+    <Revenue>971300.8</Revenue>
+    <Sales>111304.66</Sales>
+    <Stock_Price>6453.8</Stock_Price>
+  </row>
+  <row>
+    <index>14</index>
+    <Date>2023-01-15 00:00:00</Date>
+    <Revenue>974126.23</Revenue>
+    <Sales>69645.71</Sales>
+    <Stock_Price>5915.34</Stock_Price>
+  </row>
+  <row>
+    <index>15</index>
+    <Date>2023-01-16 00:00:00</Date>
+    <Revenue>991565.69</Revenue>
+    <Sales>44956.07</Sales>
+    <Stock_Price>6293.67</Stock_Price>
+  </row>
+  <row>
+    <index>16</index>
+    <Date>2023-01-17 00:00:00</Date>
+    <Revenue>984807.53</Revenue>
+    <Sales>64965.12</Sales>
+    <Stock_Price>5378.76</Stock_Price>
+  </row>
+  <row>
+    <index>17</index>
+    <Date>2023-01-18 00:00:00</Date>
+    <Revenue>1004713.71</Revenue>
+    <Sales>64322.9</Sales>
+    <Stock_Price>5693.78</Stock_Price>
+  </row>
+  <row>
+    <index>18</index>
+    <Date>2023-01-19 00:00:00</Date>
+    <Revenue>986379.64</Revenue>
+    <Sales>63226.38</Sales>
+    <Stock_Price>6505.67</Stock_Price>
+  </row>
+  <row>
+    <index>19</index>
+    <Date>2023-01-20 00:00:00</Date>
+    <Revenue>978815.44</Revenue>
+    <Sales>62461.25</Sales>
+    <Stock_Price>5739.02</Stock_Price>
+  </row>
+  <row>
+    <index>20</index>
+    <Date>2023-01-21 00:00:00</Date>
+    <Revenue>1021984.73</Revenue>
+    <Sales>63296.07</Sales>
+    <Stock_Price>7208.87</Stock_Price>
+  </row>
+  <row>
+    <index>21</index>
+    <Date>2023-01-22 00:00:00</Date>
+    <Revenue>996613.36</Revenue>
+    <Sales>68573.05</Sales>
+    <Stock_Price>5720.25</Stock_Price>
+  </row>
+  <row>
+    <index>22</index>
+    <Date>2023-01-23 00:00:00</Date>
+    <Revenue>1001012.92</Revenue>
+    <Sales>63637.3</Sales>
+    <Stock_Price>6157.28</Stock_Price>
+  </row>
+  <row>
+    <index>23</index>
+    <Date>2023-01-24 00:00:00</Date>
+    <Revenue>978628.78</Revenue>
+    <Sales>81970.45</Sales>
+    <Stock_Price>6652.81</Stock_Price>
+  </row>
+  <row>
+    <index>24</index>
+    <Date>2023-01-25 00:00:00</Date>
+    <Revenue>991834.26</Revenue>
+    <Sales>85796.02</Sales>
+    <Stock_Price>5007.14</Stock_Price>
+  </row>
+  <row>
+    <index>25</index>
+    <Date>2023-01-26 00:00:00</Date>
+    <Revenue>1001663.84</Revenue>
+    <Sales>58596.12</Sales>
+    <Stock_Price>4767.43</Stock_Price>
+  </row>
+  <row>
+    <index>26</index>
+    <Date>2023-01-27 00:00:00</Date>
+    <Revenue>982735.1</Revenue>
+    <Sales>112750.98</Sales>
+    <Stock_Price>4932.04</Stock_Price>
+  </row>
+  <row>
+    <index>27</index>
+    <Date>2023-01-28 00:00:00</Date>
+    <Revenue>1005635.47</Revenue>
+    <Sales>57388.47</Sales>
+    <Stock_Price>6883.81</Stock_Price>
+  </row>
+  <row>
+    <index>28</index>
+    <Date>2023-01-29 00:00:00</Date>
+    <Revenue>990990.42</Revenue>
+    <Sales>47395.24</Sales>
+    <Stock_Price>5613.7</Stock_Price>
+  </row>
+  <row>
+    <index>29</index>
+    <Date>2023-01-30 00:00:00</Date>
+    <Revenue>995624.59</Revenue>
+    <Sales>86322.95</Sales>
+    <Stock_Price>7790.74</Stock_Price>
+  </row>
+  <row>
+    <index>30</index>
+    <Date>2023-01-31 00:00:00</Date>
+    <Revenue>990974.4</Revenue>
+    <Sales>60258.26</Sales>
+    <Stock_Price>5605.03</Stock_Price>
+  </row>
+  <row>
+    <index>31</index>
+    <Date>2023-02-01 00:00:00</Date>
+    <Revenue>1027784.17</Revenue>
+    <Sales>84796.1</Sales>
+    <Stock_Price>6129.19</Stock_Price>
+  </row>
+  <row>
+    <index>32</index>
+    <Date>2023-02-02 00:00:00</Date>
+    <Revenue>999797.54</Revenue>
+    <Sales>37440.82</Sales>
+    <Stock_Price>7079.48</Stock_Price>
+  </row>
+  <row>
+    <index>33</index>
+    <Date>2023-02-03 00:00:00</Date>
+    <Revenue>984134.34</Revenue>
+    <Sales>116932.73</Sales>
+    <Stock_Price>7404.27</Stock_Price>
+  </row>
+  <row>
+    <index>34</index>
+    <Date>2023-02-04 00:00:00</Date>
+    <Revenue>1012338.17</Revenue>
+    <Sales>94212.24</Sales>
+    <Stock_Price>7443.05</Stock_Price>
+  </row>
+  <row>
+    <index>35</index>
+    <Date>2023-02-05 00:00:00</Date>
+    <Revenue>981687.35</Revenue>
+    <Sales>49093.13</Sales>
+    <Stock_Price>6845.86</Stock_Price>
+  </row>
+  <row>
+    <index>36</index>
+    <Date>2023-02-06 00:00:00</Date>
+    <Revenue>1003132.95</Revenue>
+    <Sales>49413.76</Sales>
+    <Stock_Price>6716.84</Stock_Price>
+  </row>
+  <row>
+    <index>37</index>
+    <Date>2023-02-07 00:00:00</Date>
+    <Revenue>970604.95</Revenue>
+    <Sales>127172.17</Sales>
+    <Stock_Price>6414.77</Stock_Price>
+  </row>
+  <row>
+    <index>38</index>
+    <Date>2023-02-08 00:00:00</Date>
+    <Revenue>980077.21</Revenue>
+    <Sales>61722.47</Sales>
+    <Stock_Price>6544.85</Stock_Price>
+  </row>
+  <row>
+    <index>39</index>
+    <Date>2023-02-09 00:00:00</Date>
+    <Revenue>1002952.92</Revenue>
+    <Sales>59955.74</Sales>
+    <Stock_Price>5614.17</Stock_Price>
+  </row>
+  <row>
+    <index>40</index>
+    <Date>2023-02-10 00:00:00</Date>
+    <Revenue>1011077.0</Revenue>
+    <Sales>39018.91</Sales>
+    <Stock_Price>5427.26</Stock_Price>
+  </row>
+  <row>
+    <index>41</index>
+    <Date>2023-02-11 00:00:00</Date>
+    <Revenue>1002570.52</Revenue>
+    <Sales>69312.73</Sales>
+    <Stock_Price>5997.64</Stock_Price>
+  </row>
+  <row>
+    <index>42</index>
+    <Date>2023-02-12 00:00:00</Date>
+    <Revenue>998265.28</Revenue>
+    <Sales>71919.41</Sales>
+    <Stock_Price>5880.87</Stock_Price>
+  </row>
+  <row>
+    <index>43</index>
+    <Date>2023-02-13 00:00:00</Date>
+    <Revenue>995483.44</Revenue>
+    <Sales>95441.16</Sales>
+    <Stock_Price>5682.74</Stock_Price>
+  </row>
+  <row>
+    <index>44</index>
+    <Date>2023-02-14 00:00:00</Date>
+    <Revenue>977822.17</Revenue>
+    <Sales>50609.46</Sales>
+    <Stock_Price>6487.47</Stock_Price>
+  </row>
+  <row>
+    <index>45</index>
+    <Date>2023-02-15 00:00:00</Date>
+    <Revenue>989202.34</Revenue>
+    <Sales>48802.23</Sales>
+    <Stock_Price>6668.71</Stock_Price>
+  </row>
+  <row>
+    <index>46</index>
+    <Date>2023-02-16 00:00:00</Date>
+    <Revenue>993090.42</Revenue>
+    <Sales>88159.78</Sales>
+    <Stock_Price>6061.88</Stock_Price>
+  </row>
+  <row>
+    <index>47</index>
+    <Date>2023-02-17 00:00:00</Date>
+    <Revenue>1015856.83</Revenue>
+    <Sales>104155.09</Sales>
+    <Stock_Price>7034.27</Stock_Price>
+  </row>
+  <row>
+    <index>48</index>
+    <Date>2023-02-18 00:00:00</Date>
+    <Revenue>1005154.27</Revenue>
+    <Sales>48063.18</Sales>
+    <Stock_Price>5200.82</Stock_Price>
+  </row>
+  <row>
+    <index>49</index>
+    <Date>2023-02-19 00:00:00</Date>
+    <Revenue>973554.4</Revenue>
+    <Sales>106518.24</Sales>
+    <Stock_Price>5864.44</Stock_Price>
+  </row>
+  <row>
+    <index>50</index>
+    <Date>2023-02-20 00:00:00</Date>
+    <Revenue>1004861.26</Revenue>
+    <Sales>77876.53</Sales>
+    <Stock_Price>5498.22</Stock_Price>
+  </row>
+  <row>
+    <index>51</index>
+    <Date>2023-02-21 00:00:00</Date>
+    <Revenue>994223.77</Revenue>
+    <Sales>106847.61</Sales>
+    <Stock_Price>4693.42</Stock_Price>
+  </row>
+  <row>
+    <index>52</index>
+    <Date>2023-02-22 00:00:00</Date>
+    <Revenue>989846.17</Revenue>
+    <Sales>75399.15</Sales>
+    <Stock_Price>5942.12</Stock_Price>
+  </row>
+  <row>
+    <index>53</index>
+    <Date>2023-02-23 00:00:00</Date>
+    <Revenue>1009175.14</Revenue>
+    <Sales>36131.99</Sales>
+    <Stock_Price>5914.78</Stock_Price>
+  </row>
+  <row>
+    <index>54</index>
+    <Date>2023-02-24 00:00:00</Date>
+    <Revenue>1015464.99</Revenue>
+    <Sales>73572.54</Sales>
+    <Stock_Price>7059.41</Stock_Price>
+  </row>
+  <row>
+    <index>55</index>
+    <Date>2023-02-25 00:00:00</Date>
+    <Revenue>1013969.2</Revenue>
+    <Sales>105837.53</Sales>
+    <Stock_Price>6441.57</Stock_Price>
+  </row>
+  <row>
+    <index>56</index>
+    <Date>2023-02-26 00:00:00</Date>
+    <Revenue>987411.74</Revenue>
+    <Sales>58893.94</Sales>
+    <Stock_Price>5283.07</Stock_Price>
+  </row>
+  <row>
+    <index>57</index>
+    <Date>2023-02-27 00:00:00</Date>
+    <Revenue>995361.81</Revenue>
+    <Sales>68543.77</Sales>
+    <Stock_Price>7297.86</Stock_Price>
+  </row>
+  <row>
+    <index>58</index>
+    <Date>2023-02-28 00:00:00</Date>
+    <Revenue>1004968.95</Revenue>
+    <Sales>73041.08</Sales>
+    <Stock_Price>6854.72</Stock_Price>
+  </row>
+  <row>
+    <index>59</index>
+    <Date>2023-03-01 00:00:00</Date>
+    <Revenue>1014633.18</Revenue>
+    <Sales>32265.8</Sales>
+    <Stock_Price>6407.47</Stock_Price>
+  </row>
+  <row>
+    <index>60</index>
+    <Date>2023-03-02 00:00:00</Date>
+    <Revenue>992812.39</Revenue>
+    <Sales>127137.14</Sales>
+    <Stock_Price>5841.46</Stock_Price>
+  </row>
+  <row>
+    <index>61</index>
+    <Date>2023-03-03 00:00:00</Date>
+    <Revenue>997215.12</Revenue>
+    <Sales>58759.29</Sales>
+    <Stock_Price>5328.39</Stock_Price>
+  </row>
+  <row>
+    <index>62</index>
+    <Date>2023-03-04 00:00:00</Date>
+    <Revenue>983404.98</Revenue>
+    <Sales>89620.37</Sales>
+    <Stock_Price>5739.46</Stock_Price>
+  </row>
+  <row>
+    <index>63</index>
+    <Date>2023-03-05 00:00:00</Date>
+    <Revenue>982056.9</Revenue>
+    <Sales>75027.28</Sales>
+    <Stock_Price>6762.12</Stock_Price>
+  </row>
+  <row>
+    <index>64</index>
+    <Date>2023-03-06 00:00:00</Date>
+    <Revenue>1012187.89</Revenue>
+    <Sales>112297.07</Sales>
+    <Stock_Price>7319.21</Stock_Price>
+  </row>
+  <row>
+    <index>65</index>
+    <Date>2023-03-07 00:00:00</Date>
+    <Revenue>1020343.6</Revenue>
+    <Sales>86980.06</Sales>
+    <Stock_Price>7080.27</Stock_Price>
+  </row>
+  <row>
+    <index>66</index>
+    <Date>2023-03-08 00:00:00</Date>
+    <Revenue>998919.85</Revenue>
+    <Sales>71764.13</Sales>
+    <Stock_Price>5657.81</Stock_Price>
+  </row>
+  <row>
+    <index>67</index>
+    <Date>2023-03-09 00:00:00</Date>
+    <Revenue>1015052.99</Revenue>
+    <Sales>58898.02</Sales>
+    <Stock_Price>5216.27</Stock_Price>
+  </row>
+  <row>
+    <index>68</index>
+    <Date>2023-03-10 00:00:00</Date>
+    <Revenue>1005424.54</Revenue>
+    <Sales>97828.63</Sales>
+    <Stock_Price>6098.62</Stock_Price>
+  </row>
+  <row>
+    <index>69</index>
+    <Date>2023-03-11 00:00:00</Date>
+    <Revenue>990323.2</Revenue>
+    <Sales>43896.28</Sales>
+    <Stock_Price>4762.09</Stock_Price>
+  </row>
+  <row>
+    <index>70</index>
+    <Date>2023-03-12 00:00:00</Date>
+    <Revenue>1005420.93</Revenue>
+    <Sales>93468.94</Sales>
+    <Stock_Price>6226.22</Stock_Price>
+  </row>
+  <row>
+    <index>71</index>
+    <Date>2023-03-13 00:00:00</Date>
+    <Revenue>1023070.55</Revenue>
+    <Sales>55376.13</Sales>
+    <Stock_Price>5896.68</Stock_Price>
+  </row>
+  <row>
+    <index>72</index>
+    <Date>2023-03-14 00:00:00</Date>
+    <Revenue>999462.61</Revenue>
+    <Sales>112117.47</Sales>
+    <Stock_Price>5673.77</Stock_Price>
+  </row>
+  <row>
+    <index>73</index>
+    <Date>2023-03-15 00:00:00</Date>
+    <Revenue>1023469.65</Revenue>
+    <Sales>80822.22</Sales>
+    <Stock_Price>4883.71</Stock_Price>
+  </row>
+  <row>
+    <index>74</index>
+    <Date>2023-03-16 00:00:00</Date>
+    <Revenue>960703.82</Revenue>
+    <Sales>93419.41</Sales>
+    <Stock_Price>6359.52</Stock_Price>
+  </row>
+  <row>
+    <index>75</index>
+    <Date>2023-03-17 00:00:00</Date>
+    <Revenue>1012328.54</Revenue>
+    <Sales>78921.9</Sales>
+    <Stock_Price>5627.11</Stock_Price>
+  </row>
+  <row>
+    <index>76</index>
+    <Date>2023-03-18 00:00:00</Date>
+    <Revenue>1001305.71</Revenue>
+    <Sales>45519.87</Sales>
+    <Stock_Price>5181.06</Stock_Price>
+  </row>
+  <row>
+    <index>77</index>
+    <Date>2023-03-19 00:00:00</Date>
+    <Revenue>995514.89</Revenue>
+    <Sales>59480.19</Sales>
+    <Stock_Price>3989.42</Stock_Price>
+  </row>
+  <row>
+    <index>78</index>
+    <Date>2023-03-20 00:00:00</Date>
+    <Revenue>1001376.41</Revenue>
+    <Sales>94214.95</Sales>
+    <Stock_Price>5980.74</Stock_Price>
+  </row>
+  <row>
+    <index>79</index>
+    <Date>2023-03-21 00:00:00</Date>
+    <Revenue>970186.47</Revenue>
+    <Sales>80952.2</Sales>
+    <Stock_Price>7240.58</Stock_Price>
+  </row>
+  <row>
+    <index>80</index>
+    <Date>2023-03-22 00:00:00</Date>
+    <Revenue>996704.92</Revenue>
+    <Sales>109744.95</Sales>
+    <Stock_Price>7162.88</Stock_Price>
+  </row>
+  <row>
+    <index>81</index>
+    <Date>2023-03-23 00:00:00</Date>
+    <Revenue>1005356.69</Revenue>
+    <Sales>86907.51</Sales>
+    <Stock_Price>5680.03</Stock_Price>
+  </row>
+  <row>
+    <index>82</index>
+    <Date>2023-03-24 00:00:00</Date>
+    <Revenue>1022168.41</Revenue>
+    <Sales>57618.95</Sales>
+    <Stock_Price>5578.45</Stock_Price>
+  </row>
+  <row>
+    <index>83</index>
+    <Date>2023-03-25 00:00:00</Date>
+    <Revenue>992225.95</Revenue>
+    <Sales>60645.34</Sales>
+    <Stock_Price>6328.14</Stock_Price>
+  </row>
+  <row>
+    <index>84</index>
+    <Date>2023-03-26 00:00:00</Date>
+    <Revenue>987872.6</Revenue>
+    <Sales>79418.97</Sales>
+    <Stock_Price>5301.13</Stock_Price>
+  </row>
+  <row>
+    <index>85</index>
+    <Date>2023-03-27 00:00:00</Date>
+    <Revenue>992473.64</Revenue>
+    <Sales>38461.16</Sales>
+    <Stock_Price>6211.25</Stock_Price>
+  </row>
+  <row>
+    <index>86</index>
+    <Date>2023-03-28 00:00:00</Date>
+    <Revenue>1013731.03</Revenue>
+    <Sales>127217.04</Sales>
+    <Stock_Price>6536.26</Stock_Price>
+  </row>
+  <row>
+    <index>87</index>
+    <Date>2023-03-29 00:00:00</Date>
+    <Revenue>1004931.27</Revenue>
+    <Sales>87916.37</Sales>
+    <Stock_Price>6858.85</Stock_Price>
+  </row>
+  <row>
+    <index>88</index>
+    <Date>2023-03-30 00:00:00</Date>
+    <Revenue>992053.6</Revenue>
+    <Sales>111271.42</Sales>
+    <Stock_Price>5929.89</Stock_Price>
+  </row>
+  <row>
+    <index>89</index>
+    <Date>2023-03-31 00:00:00</Date>
+    <Revenue>1007699.01</Revenue>
+    <Sales>47927.09</Sales>
+    <Stock_Price>5857.43</Stock_Price>
+  </row>
+  <row>
+    <index>90</index>
+    <Date>2023-04-01 00:00:00</Date>
+    <Revenue>1001456.16</Revenue>
+    <Sales>111858.16</Sales>
+    <Stock_Price>5385.41</Stock_Price>
+  </row>
+  <row>
+    <index>91</index>
+    <Date>2023-04-02 00:00:00</Date>
+    <Revenue>1014529.67</Revenue>
+    <Sales>150402.0</Sales>
+    <Stock_Price>5421.18</Stock_Price>
+  </row>
+  <row>
+    <index>92</index>
+    <Date>2023-04-03 00:00:00</Date>
+    <Revenue>989469.2</Revenue>
+    <Sales>51810.8</Sales>
+    <Stock_Price>5841.46</Stock_Price>
+  </row>
+  <row>
+    <index>93</index>
+    <Date>2023-04-04 00:00:00</Date>
+    <Revenue>995085.07</Revenue>
+    <Sales>97055.46</Sales>
+    <Stock_Price>6257.16</Stock_Price>
+  </row>
+  <row>
+    <index>94</index>
+    <Date>2023-04-05 00:00:00</Date>
+    <Revenue>994118.38</Revenue>
+    <Sales>77030.01</Sales>
+    <Stock_Price>6639.51</Stock_Price>
+  </row>
+  <row>
+    <index>95</index>
+    <Date>2023-04-06 00:00:00</Date>
+    <Revenue>978047.28</Revenue>
+    <Sales>48449.98</Sales>
+    <Stock_Price>5437.77</Stock_Price>
+  </row>
+  <row>
+    <index>96</index>
+    <Date>2023-04-07 00:00:00</Date>
+    <Revenue>1004441.8</Revenue>
+    <Sales>89275.51</Sales>
+    <Stock_Price>7044.88</Stock_Price>
+  </row>
+  <row>
+    <index>97</index>
+    <Date>2023-04-08 00:00:00</Date>
+    <Revenue>1003915.83</Revenue>
+    <Sales>98883.56</Sales>
+    <Stock_Price>5810.21</Stock_Price>
+  </row>
+  <row>
+    <index>98</index>
+    <Date>2023-04-09 00:00:00</Date>
+    <Revenue>1000076.7</Revenue>
+    <Sales>64297.71</Sales>
+    <Stock_Price>5985.04</Stock_Price>
+  </row>
+  <row>
+    <index>99</index>
+    <Date>2023-04-10 00:00:00</Date>
+    <Revenue>996481.19</Revenue>
+    <Sales>109249.8</Sales>
+    <Stock_Price>5476.95</Stock_Price>
+  </row>
+  <row>
+    <index>100</index>
+    <Date>2023-04-11 00:00:00</Date>
+    <Revenue>978769.44</Revenue>
+    <Sales>46704.15</Sales>
+    <Stock_Price>4303.03</Stock_Price>
+  </row>
+  <row>
+    <index>101</index>
+    <Date>2023-04-12 00:00:00</Date>
+    <Revenue>993690.32</Revenue>
+    <Sales>49177.45</Sales>
+    <Stock_Price>6618.83</Stock_Price>
+  </row>
+  <row>
+    <index>102</index>
+    <Date>2023-04-13 00:00:00</Date>
+    <Revenue>994859.28</Revenue>
+    <Sales>80225.49</Sales>
+    <Stock_Price>6515.79</Stock_Price>
+  </row>
+  <row>
+    <index>103</index>
+    <Date>2023-04-14 00:00:00</Date>
+    <Revenue>987965.84</Revenue>
+    <Sales>77593.03</Sales>
+    <Stock_Price>5803.07</Stock_Price>
+  </row>
+  <row>
+    <index>104</index>
+    <Date>2023-04-15 00:00:00</Date>
+    <Revenue>997580.71</Revenue>
+    <Sales>62108.94</Sales>
+    <Stock_Price>6046.89</Stock_Price>
+  </row>
+  <row>
+    <index>105</index>
+    <Date>2023-04-16 00:00:00</Date>
+    <Revenue>1006060.76</Revenue>
+    <Sales>98173.9</Sales>
+    <Stock_Price>6361.16</Stock_Price>
+  </row>
+  <row>
+    <index>106</index>
+    <Date>2023-04-17 00:00:00</Date>
+    <Revenue>1028292.79</Revenue>
+    <Sales>90299.36</Sales>
+    <Stock_Price>4906.22</Stock_Price>
+  </row>
+  <row>
+    <index>107</index>
+    <Date>2023-04-18 00:00:00</Date>
+    <Revenue>1002618.67</Revenue>
+    <Sales>99614.11</Sales>
+    <Stock_Price>5629.66</Stock_Price>
+  </row>
+  <row>
+    <index>108</index>
+    <Date>2023-04-19 00:00:00</Date>
+    <Revenue>1003863.26</Revenue>
+    <Sales>74211.65</Sales>
+    <Stock_Price>6555.99</Stock_Price>
+  </row>
+  <row>
+    <index>109</index>
+    <Date>2023-04-20 00:00:00</Date>
+    <Revenue>998883.31</Revenue>
+    <Sales>92262.35</Sales>
+    <Stock_Price>5122.0</Stock_Price>
+  </row>
+  <row>
+    <index>110</index>
+    <Date>2023-04-21 00:00:00</Date>
+    <Revenue>971218.43</Revenue>
+    <Sales>67367.79</Sales>
+    <Stock_Price>6205.49</Stock_Price>
+  </row>
+  <row>
+    <index>111</index>
+    <Date>2023-04-22 00:00:00</Date>
+    <Revenue>999602.29</Revenue>
+    <Sales>142594.89</Sales>
+    <Stock_Price>5050.39</Stock_Price>
+  </row>
+  <row>
+    <index>112</index>
+    <Date>2023-04-23 00:00:00</Date>
+    <Revenue>1000903.45</Revenue>
+    <Sales>60346.22</Sales>
+    <Stock_Price>6326.5</Stock_Price>
+  </row>
+  <row>
+    <index>113</index>
+    <Date>2023-04-24 00:00:00</Date>
+    <Revenue>1036948.63</Revenue>
+    <Sales>144814.16</Sales>
+    <Stock_Price>5975.05</Stock_Price>
+  </row>
+  <row>
+    <index>114</index>
+    <Date>2023-04-25 00:00:00</Date>
+    <Revenue>997114.59</Revenue>
+    <Sales>77814.55</Sales>
+    <Stock_Price>4869.41</Stock_Price>
+  </row>
+  <row>
+    <index>115</index>
+    <Date>2023-04-26 00:00:00</Date>
+    <Revenue>1004523.21</Revenue>
+    <Sales>50968.55</Sales>
+    <Stock_Price>6815.32</Stock_Price>
+  </row>
+  <row>
+    <index>116</index>
+    <Date>2023-04-27 00:00:00</Date>
+    <Revenue>999479.32</Revenue>
+    <Sales>116080.73</Sales>
+    <Stock_Price>5485.79</Stock_Price>
+  </row>
+  <row>
+    <index>117</index>
+    <Date>2023-04-28 00:00:00</Date>
+    <Revenue>982469.83</Revenue>
+    <Sales>79968.47</Sales>
+    <Stock_Price>5432.82</Stock_Price>
+  </row>
+  <row>
+    <index>118</index>
+    <Date>2023-04-29 00:00:00</Date>
+    <Revenue>1017142.34</Revenue>
+    <Sales>99404.69</Sales>
+    <Stock_Price>6140.4</Stock_Price>
+  </row>
+  <row>
+    <index>119</index>
+    <Date>2023-04-30 00:00:00</Date>
+    <Revenue>1011279.0</Revenue>
+    <Sales>111165.36</Sales>
+    <Stock_Price>6804.05</Stock_Price>
+  </row>
+  <row>
+    <index>120</index>
+    <Date>2023-05-01 00:00:00</Date>
+    <Revenue>1011865.48</Revenue>
+    <Sales>85221.07</Sales>
+    <Stock_Price>5288.92</Stock_Price>
+  </row>
+  <row>
+    <index>121</index>
+    <Date>2023-05-02 00:00:00</Date>
+    <Revenue>986359.19</Revenue>
+    <Sales>64469.34</Sales>
+    <Stock_Price>6043.18</Stock_Price>
+  </row>
+  <row>
+    <index>122</index>
+    <Date>2023-05-03 00:00:00</Date>
+    <Revenue>1021041.91</Revenue>
+    <Sales>103190.43</Sales>
+    <Stock_Price>6300.17</Stock_Price>
+  </row>
+  <row>
+    <index>123</index>
+    <Date>2023-05-04 00:00:00</Date>
+    <Revenue>978972.23</Revenue>
+    <Sales>77021.82</Sales>
+    <Stock_Price>6485.17</Stock_Price>
+  </row>
+  <row>
+    <index>124</index>
+    <Date>2023-05-05 00:00:00</Date>
+    <Revenue>1008802.86</Revenue>
+    <Sales>94596.4</Sales>
+    <Stock_Price>6123.51</Stock_Price>
+  </row>
+  <row>
+    <index>125</index>
+    <Date>2023-05-06 00:00:00</Date>
+    <Revenue>1032856.83</Revenue>
+    <Sales>40356.11</Sales>
+    <Stock_Price>5743.08</Stock_Price>
+  </row>
+  <row>
+    <index>126</index>
+    <Date>2023-05-07 00:00:00</Date>
+    <Revenue>985141.96</Revenue>
+    <Sales>88054.56</Sales>
+    <Stock_Price>5420.69</Stock_Price>
+  </row>
+  <row>
+    <index>127</index>
+    <Date>2023-05-08 00:00:00</Date>
+    <Revenue>991505.53</Revenue>
+    <Sales>63579.2</Sales>
+    <Stock_Price>6060.3</Stock_Price>
+  </row>
+  <row>
+    <index>128</index>
+    <Date>2023-05-09 00:00:00</Date>
+    <Revenue>1001494.77</Revenue>
+    <Sales>126451.01</Sales>
+    <Stock_Price>5249.5</Stock_Price>
+  </row>
+  <row>
+    <index>129</index>
+    <Date>2023-05-10 00:00:00</Date>
+    <Revenue>992447.87</Revenue>
+    <Sales>92831.71</Sales>
+    <Stock_Price>3955.05</Stock_Price>
+  </row>
+  <row>
+    <index>130</index>
+    <Date>2023-05-11 00:00:00</Date>
+    <Revenue>976740.05</Revenue>
+    <Sales>82749.62</Sales>
+    <Stock_Price>6305.59</Stock_Price>
+  </row>
+  <row>
+    <index>131</index>
+    <Date>2023-05-12 00:00:00</Date>
+    <Revenue>1001028.44</Revenue>
+    <Sales>89099.62</Sales>
+    <Stock_Price>6632.75</Stock_Price>
+  </row>
+  <row>
+    <index>132</index>
+    <Date>2023-05-13 00:00:00</Date>
+    <Revenue>984065.44</Revenue>
+    <Sales>57072.92</Sales>
+    <Stock_Price>4345.95</Stock_Price>
+  </row>
+  <row>
+    <index>133</index>
+    <Date>2023-05-14 00:00:00</Date>
+    <Revenue>1007103.89</Revenue>
+    <Sales>125316.06</Sales>
+    <Stock_Price>5293.19</Stock_Price>
+  </row>
+  <row>
+    <index>134</index>
+    <Date>2023-05-15 00:00:00</Date>
+    <Revenue>986208.64</Revenue>
+    <Sales>139948.32</Sales>
+    <Stock_Price>6433.41</Stock_Price>
+  </row>
+  <row>
+    <index>135</index>
+    <Date>2023-05-16 00:00:00</Date>
+    <Revenue>1023249.02</Revenue>
+    <Sales>86637.79</Sales>
+    <Stock_Price>7440.25</Stock_Price>
+  </row>
+  <row>
+    <index>136</index>
+    <Date>2023-05-17 00:00:00</Date>
+    <Revenue>988251.2</Revenue>
+    <Sales>124087.02</Sales>
+    <Stock_Price>6014.56</Stock_Price>
+  </row>
+  <row>
+    <index>137</index>
+    <Date>2023-05-18 00:00:00</Date>
+    <Revenue>995169.08</Revenue>
+    <Sales>64917.52</Sales>
+    <Stock_Price>5490.4</Stock_Price>
+  </row>
+  <row>
+    <index>138</index>
+    <Date>2023-05-19 00:00:00</Date>
+    <Revenue>1012202.76</Revenue>
+    <Sales>60626.25</Sales>
+    <Stock_Price>5871.97</Stock_Price>
+  </row>
+  <row>
+    <index>139</index>
+    <Date>2023-05-20 00:00:00</Date>
+    <Revenue>981537.04</Revenue>
+    <Sales>77955.6</Sales>
+    <Stock_Price>6962.41</Stock_Price>
+  </row>
+  <row>
+    <index>140</index>
+    <Date>2023-05-21 00:00:00</Date>
+    <Revenue>1003411.9</Revenue>
+    <Sales>87737.06</Sales>
+    <Stock_Price>5547.83</Stock_Price>
+  </row>
+  <row>
+    <index>141</index>
+    <Date>2023-05-22 00:00:00</Date>
+    <Revenue>1019607.14</Revenue>
+    <Sales>68420.06</Sales>
+    <Stock_Price>5440.57</Stock_Price>
+  </row>
+  <row>
+    <index>142</index>
+    <Date>2023-05-23 00:00:00</Date>
+    <Revenue>975887.75</Revenue>
+    <Sales>90485.76</Sales>
+    <Stock_Price>5662.08</Stock_Price>
+  </row>
+  <row>
+    <index>143</index>
+    <Date>2023-05-24 00:00:00</Date>
+    <Revenue>1002769.51</Revenue>
+    <Sales>84417.85</Sales>
+    <Stock_Price>5332.67</Stock_Price>
+  </row>
+  <row>
+    <index>144</index>
+    <Date>2023-05-25 00:00:00</Date>
+    <Revenue>1003898.24</Revenue>
+    <Sales>57075.22</Sales>
+    <Stock_Price>6085.87</Stock_Price>
+  </row>
+  <row>
+    <index>145</index>
+    <Date>2023-05-26 00:00:00</Date>
+    <Revenue>1011727.34</Revenue>
+    <Sales>89972.13</Sales>
+    <Stock_Price>7137.27</Stock_Price>
+  </row>
+  <row>
+    <index>146</index>
+    <Date>2023-05-27 00:00:00</Date>
+    <Revenue>981445.74</Revenue>
+    <Sales>99775.29</Sales>
+    <Stock_Price>6226.16</Stock_Price>
+  </row>
+  <row>
+    <index>147</index>
+    <Date>2023-05-28 00:00:00</Date>
+    <Revenue>980193.15</Revenue>
+    <Sales>81069.18</Sales>
+    <Stock_Price>5823.35</Stock_Price>
+  </row>
+  <row>
+    <index>148</index>
+    <Date>2023-05-29 00:00:00</Date>
+    <Revenue>1007829.12</Revenue>
+    <Sales>108815.79</Sales>
+    <Stock_Price>5795.73</Stock_Price>
+  </row>
+  <row>
+    <index>149</index>
+    <Date>2023-05-30 00:00:00</Date>
+    <Revenue>1004454.77</Revenue>
+    <Sales>53444.35</Sales>
+    <Stock_Price>4905.77</Stock_Price>
+  </row>
+  <row>
+    <index>150</index>
+    <Date>2023-05-31 00:00:00</Date>
+    <Revenue>1003757.39</Revenue>
+    <Sales>88610.22</Sales>
+    <Stock_Price>6618.18</Stock_Price>
+  </row>
+  <row>
+    <index>151</index>
+    <Date>2023-06-01 00:00:00</Date>
+    <Revenue>1005196.72</Revenue>
+    <Sales>54205.25</Sales>
+    <Stock_Price>5945.51</Stock_Price>
+  </row>
+  <row>
+    <index>152</index>
+    <Date>2023-06-02 00:00:00</Date>
+    <Revenue>989799.63</Revenue>
+    <Sales>55126.89</Sales>
+    <Stock_Price>5873.66</Stock_Price>
+  </row>
+  <row>
+    <index>153</index>
+    <Date>2023-06-03 00:00:00</Date>
+    <Revenue>1003483.81</Revenue>
+    <Sales>63725.37</Sales>
+    <Stock_Price>8235.18</Stock_Price>
+  </row>
+  <row>
+    <index>154</index>
+    <Date>2023-06-04 00:00:00</Date>
+    <Revenue>1004396.09</Revenue>
+    <Sales>58046.48</Sales>
+    <Stock_Price>6209.13</Stock_Price>
+  </row>
+  <row>
+    <index>155</index>
+    <Date>2023-06-05 00:00:00</Date>
+    <Revenue>989284.73</Revenue>
+    <Sales>65330.78</Sales>
+    <Stock_Price>5473.75</Stock_Price>
+  </row>
+  <row>
+    <index>156</index>
+    <Date>2023-06-06 00:00:00</Date>
+    <Revenue>1027986.62</Revenue>
+    <Sales>72212.77</Sales>
+    <Stock_Price>5701.55</Stock_Price>
+  </row>
+  <row>
+    <index>157</index>
+    <Date>2023-06-07 00:00:00</Date>
+    <Revenue>1007107.49</Revenue>
+    <Sales>98988.97</Sales>
+    <Stock_Price>6803.91</Stock_Price>
+  </row>
+  <row>
+    <index>158</index>
+    <Date>2023-06-08 00:00:00</Date>
+    <Revenue>982130.45</Revenue>
+    <Sales>69931.37</Sales>
+    <Stock_Price>6079.29</Stock_Price>
+  </row>
+  <row>
+    <index>159</index>
+    <Date>2023-06-09 00:00:00</Date>
+    <Revenue>1009848.3</Revenue>
+    <Sales>47854.94</Sales>
+    <Stock_Price>4993.21</Stock_Price>
+  </row>
+  <row>
+    <index>160</index>
+    <Date>2023-06-10 00:00:00</Date>
+    <Revenue>985379.77</Revenue>
+    <Sales>108405.89</Sales>
+    <Stock_Price>6643.46</Stock_Price>
+  </row>
+  <row>
+    <index>161</index>
+    <Date>2023-06-11 00:00:00</Date>
+    <Revenue>1011806.27</Revenue>
+    <Sales>59903.5</Sales>
+    <Stock_Price>5532.3</Stock_Price>
+  </row>
+  <row>
+    <index>162</index>
+    <Date>2023-06-12 00:00:00</Date>
+    <Revenue>1017378.93</Revenue>
+    <Sales>75659.72</Sales>
+    <Stock_Price>7311.31</Stock_Price>
+  </row>
+  <row>
+    <index>163</index>
+    <Date>2023-06-13 00:00:00</Date>
+    <Revenue>987689.77</Revenue>
+    <Sales>88042.8</Sales>
+    <Stock_Price>6756.03</Stock_Price>
+  </row>
+  <row>
+    <index>164</index>
+    <Date>2023-06-14 00:00:00</Date>
+    <Revenue>1014450.64</Revenue>
+    <Sales>81756.49</Sales>
+    <Stock_Price>5686.87</Stock_Price>
+  </row>
+  <row>
+    <index>165</index>
+    <Date>2023-06-15 00:00:00</Date>
+    <Revenue>1006191.71</Revenue>
+    <Sales>106923.75</Sales>
+    <Stock_Price>6896.71</Stock_Price>
+  </row>
+  <row>
+    <index>166</index>
+    <Date>2023-06-16 00:00:00</Date>
+    <Revenue>1012330.9</Revenue>
+    <Sales>88904.52</Sales>
+    <Stock_Price>6047.5</Stock_Price>
+  </row>
+  <row>
+    <index>167</index>
+    <Date>2023-06-17 00:00:00</Date>
+    <Revenue>1028451.89</Revenue>
+    <Sales>59469.83</Sales>
+    <Stock_Price>6596.94</Stock_Price>
+  </row>
+  <row>
+    <index>168</index>
+    <Date>2023-06-18 00:00:00</Date>
+    <Revenue>996319.18</Revenue>
+    <Sales>148032.33</Sales>
+    <Stock_Price>6339.31</Stock_Price>
+  </row>
+  <row>
+    <index>169</index>
+    <Date>2023-06-19 00:00:00</Date>
+    <Revenue>988693.96</Revenue>
+    <Sales>81627.16</Sales>
+    <Stock_Price>5407.55</Stock_Price>
+  </row>
+  <row>
+    <index>170</index>
+    <Date>2023-06-20 00:00:00</Date>
+    <Revenue>986657.28</Revenue>
+    <Sales>73674.74</Sales>
+    <Stock_Price>5549.52</Stock_Price>
+  </row>
+  <row>
+    <index>171</index>
+    <Date>2023-06-21 00:00:00</Date>
+    <Revenue>987762.85</Revenue>
+    <Sales>102826.15</Sales>
+    <Stock_Price>6720.97</Stock_Price>
+  </row>
+  <row>
+    <index>172</index>
+    <Date>2023-06-22 00:00:00</Date>
+    <Revenue>998843.47</Revenue>
+    <Sales>82988.11</Sales>
+    <Stock_Price>5765.66</Stock_Price>
+  </row>
+  <row>
+    <index>173</index>
+    <Date>2023-06-23 00:00:00</Date>
+    <Revenue>1005117.28</Revenue>
+    <Sales>86802.07</Sales>
+    <Stock_Price>5717.45</Stock_Price>
+  </row>
+  <row>
+    <index>174</index>
+    <Date>2023-06-24 00:00:00</Date>
+    <Revenue>1004150.36</Revenue>
+    <Sales>162636.44</Sales>
+    <Stock_Price>5331.41</Stock_Price>
+  </row>
+  <row>
+    <index>175</index>
+    <Date>2023-06-25 00:00:00</Date>
+    <Revenue>1012407.75</Revenue>
+    <Sales>70903.91</Sales>
+    <Stock_Price>6296.52</Stock_Price>
+  </row>
+  <row>
+    <index>176</index>
+    <Date>2023-06-26 00:00:00</Date>
+    <Revenue>1000195.03</Revenue>
+    <Sales>70002.7</Sales>
+    <Stock_Price>7443.77</Stock_Price>
+  </row>
+  <row>
+    <index>177</index>
+    <Date>2023-06-27 00:00:00</Date>
+    <Revenue>1021803.01</Revenue>
+    <Sales>79745.12</Sales>
+    <Stock_Price>5252.73</Stock_Price>
+  </row>
+  <row>
+    <index>178</index>
+    <Date>2023-06-28 00:00:00</Date>
+    <Revenue>996030.15</Revenue>
+    <Sales>106199.23</Sales>
+    <Stock_Price>6016.95</Stock_Price>
+  </row>
+  <row>
+    <index>179</index>
+    <Date>2023-06-29 00:00:00</Date>
+    <Revenue>1040802.54</Revenue>
+    <Sales>49004.0</Sales>
+    <Stock_Price>6988.55</Stock_Price>
+  </row>
+  <row>
+    <index>180</index>
+    <Date>2023-06-30 00:00:00</Date>
+    <Revenue>1009385.01</Revenue>
+    <Sales>42699.84</Sales>
+    <Stock_Price>5944.25</Stock_Price>
+  </row>
+  <row>
+    <index>181</index>
+    <Date>2023-07-01 00:00:00</Date>
+    <Revenue>987142.64</Revenue>
+    <Sales>64568.55</Sales>
+    <Stock_Price>6316.66</Stock_Price>
+  </row>
+  <row>
+    <index>182</index>
+    <Date>2023-07-02 00:00:00</Date>
+    <Revenue>983936.61</Revenue>
+    <Sales>47166.56</Sales>
+    <Stock_Price>5256.32</Stock_Price>
+  </row>
+  <row>
+    <index>183</index>
+    <Date>2023-07-03 00:00:00</Date>
+    <Revenue>1007237.09</Revenue>
+    <Sales>67789.86</Sales>
+    <Stock_Price>6299.81</Stock_Price>
+  </row>
+  <row>
+    <index>184</index>
+    <Date>2023-07-04 00:00:00</Date>
+    <Revenue>996648.06</Revenue>
+    <Sales>89533.42</Sales>
+    <Stock_Price>5869.0</Stock_Price>
+  </row>
+  <row>
+    <index>185</index>
+    <Date>2023-07-05 00:00:00</Date>
+    <Revenue>1010710.01</Revenue>
+    <Sales>58946.92</Sales>
+    <Stock_Price>6690.01</Stock_Price>
+  </row>
+  <row>
+    <index>186</index>
+    <Date>2023-07-06 00:00:00</Date>
+    <Revenue>1007098.56</Revenue>
+    <Sales>50189.91</Sales>
+    <Stock_Price>6831.17</Stock_Price>
+  </row>
+  <row>
+    <index>187</index>
+    <Date>2023-07-07 00:00:00</Date>
+    <Revenue>998907.57</Revenue>
+    <Sales>78622.92</Sales>
+    <Stock_Price>7812.69</Stock_Price>
+  </row>
+  <row>
+    <index>188</index>
+    <Date>2023-07-08 00:00:00</Date>
+    <Revenue>987298.09</Revenue>
+    <Sales>99745.82</Sales>
+    <Stock_Price>6405.74</Stock_Price>
+  </row>
+  <row>
+    <index>189</index>
+    <Date>2023-07-09 00:00:00</Date>
+    <Revenue>977277.29</Revenue>
+    <Sales>46310.56</Sales>
+    <Stock_Price>6228.06</Stock_Price>
+  </row>
+  <row>
+    <index>190</index>
+    <Date>2023-07-10 00:00:00</Date>
+    <Revenue>993302.28</Revenue>
+    <Sales>98487.71</Sales>
+    <Stock_Price>6136.07</Stock_Price>
+  </row>
+  <row>
+    <index>191</index>
+    <Date>2023-07-11 00:00:00</Date>
+    <Revenue>1012845.98</Revenue>
+    <Sales>98401.29</Sales>
+    <Stock_Price>5752.78</Stock_Price>
+  </row>
+  <row>
+    <index>192</index>
+    <Date>2023-07-12 00:00:00</Date>
+    <Revenue>1003211.41</Revenue>
+    <Sales>102523.04</Sales>
+    <Stock_Price>6236.94</Stock_Price>
+  </row>
+  <row>
+    <index>193</index>
+    <Date>2023-07-13 00:00:00</Date>
+    <Revenue>981313.92</Revenue>
+    <Sales>110986.23</Sales>
+    <Stock_Price>5793.22</Stock_Price>
+  </row>
+  <row>
+    <index>194</index>
+    <Date>2023-07-14 00:00:00</Date>
+    <Revenue>1002597.71</Revenue>
+    <Sales>149077.49</Sales>
+    <Stock_Price>6117.92</Stock_Price>
+  </row>
+  <row>
+    <index>195</index>
+    <Date>2023-07-15 00:00:00</Date>
+    <Revenue>1005779.76</Revenue>
+    <Sales>69202.32</Sales>
+    <Stock_Price>6922.32</Stock_Price>
+  </row>
+  <row>
+    <index>196</index>
+    <Date>2023-07-16 00:00:00</Date>
+    <Revenue>986742.14</Revenue>
+    <Sales>79577.67</Sales>
+    <Stock_Price>5295.42</Stock_Price>
+  </row>
+  <row>
+    <index>197</index>
+    <Date>2023-07-17 00:00:00</Date>
+    <Revenue>1002305.88</Revenue>
+    <Sales>67960.76</Sales>
+    <Stock_Price>6797.91</Stock_Price>
+  </row>
+  <row>
+    <index>198</index>
+    <Date>2023-07-18 00:00:00</Date>
+    <Revenue>1000873.13</Revenue>
+    <Sales>77050.04</Sales>
+    <Stock_Price>6921.98</Stock_Price>
+  </row>
+  <row>
+    <index>199</index>
+    <Date>2023-07-19 00:00:00</Date>
+    <Revenue>982855.45</Revenue>
+    <Sales>121963.77</Sales>
+    <Stock_Price>5917.35</Stock_Price>
+  </row>
+  <row>
+    <index>200</index>
+    <Date>2023-07-20 00:00:00</Date>
+    <Revenue>1005366.81</Revenue>
+    <Sales>51437.0</Sales>
+    <Stock_Price>4514.7</Stock_Price>
+  </row>
+  <row>
+    <index>201</index>
+    <Date>2023-07-21 00:00:00</Date>
+    <Revenue>1008411.77</Revenue>
+    <Sales>59474.47</Sales>
+    <Stock_Price>5574.52</Stock_Price>
+  </row>
+  <row>
+    <index>202</index>
+    <Date>2023-07-22 00:00:00</Date>
+    <Revenue>1016245.77</Revenue>
+    <Sales>116398.11</Sales>
+    <Stock_Price>6907.9</Stock_Price>
+  </row>
+  <row>
+    <index>203</index>
+    <Date>2023-07-23 00:00:00</Date>
+    <Revenue>1015807.03</Revenue>
+    <Sales>104571.7</Sales>
+    <Stock_Price>5983.99</Stock_Price>
+  </row>
+  <row>
+    <index>204</index>
+    <Date>2023-07-24 00:00:00</Date>
+    <Revenue>979334.96</Revenue>
+    <Sales>69056.33</Sales>
+    <Stock_Price>5300.49</Stock_Price>
+  </row>
+  <row>
+    <index>205</index>
+    <Date>2023-07-25 00:00:00</Date>
+    <Revenue>985932.62</Revenue>
+    <Sales>99502.49</Sales>
+    <Stock_Price>5646.66</Stock_Price>
+  </row>
+  <row>
+    <index>206</index>
+    <Date>2023-07-26 00:00:00</Date>
+    <Revenue>1007725.53</Revenue>
+    <Sales>85304.47</Sales>
+    <Stock_Price>6588.43</Stock_Price>
+  </row>
+  <row>
+    <index>207</index>
+    <Date>2023-07-27 00:00:00</Date>
+    <Revenue>1007706.79</Revenue>
+    <Sales>120776.83</Sales>
+    <Stock_Price>6382.71</Stock_Price>
+  </row>
+  <row>
+    <index>208</index>
+    <Date>2023-07-28 00:00:00</Date>
+    <Revenue>1007725.72</Revenue>
+    <Sales>78745.01</Sales>
+    <Stock_Price>5832.75</Stock_Price>
+  </row>
+  <row>
+    <index>209</index>
+    <Date>2023-07-29 00:00:00</Date>
+    <Revenue>1057790.97</Revenue>
+    <Sales>104747.39</Sales>
+    <Stock_Price>5743.22</Stock_Price>
+  </row>
+  <row>
+    <index>210</index>
+    <Date>2023-07-30 00:00:00</Date>
+    <Revenue>1008563.36</Revenue>
+    <Sales>170113.46</Sales>
+    <Stock_Price>5725.77</Stock_Price>
+  </row>
+  <row>
+    <index>211</index>
+    <Date>2023-07-31 00:00:00</Date>
+    <Revenue>1017033.48</Revenue>
+    <Sales>92138.4</Sales>
+    <Stock_Price>5354.31</Stock_Price>
+  </row>
+  <row>
+    <index>212</index>
+    <Date>2023-08-01 00:00:00</Date>
+    <Revenue>1014310.03</Revenue>
+    <Sales>78152.38</Sales>
+    <Stock_Price>7130.76</Stock_Price>
+  </row>
+  <row>
+    <index>213</index>
+    <Date>2023-08-02 00:00:00</Date>
+    <Revenue>1009770.87</Revenue>
+    <Sales>95640.48</Sales>
+    <Stock_Price>5774.38</Stock_Price>
+  </row>
+  <row>
+    <index>214</index>
+    <Date>2023-08-03 00:00:00</Date>
+    <Revenue>995270.96</Revenue>
+    <Sales>69011.82</Sales>
+    <Stock_Price>6852.01</Stock_Price>
+  </row>
+  <row>
+    <index>215</index>
+    <Date>2023-08-04 00:00:00</Date>
+    <Revenue>1011384.54</Revenue>
+    <Sales>157630.29</Sales>
+    <Stock_Price>7064.92</Stock_Price>
+  </row>
+  <row>
+    <index>216</index>
+    <Date>2023-08-05 00:00:00</Date>
+    <Revenue>988407.62</Revenue>
+    <Sales>81278.65</Sales>
+    <Stock_Price>6698.82</Stock_Price>
+  </row>
+  <row>
+    <index>217</index>
+    <Date>2023-08-06 00:00:00</Date>
+    <Revenue>996447.72</Revenue>
+    <Sales>70950.47</Sales>
+    <Stock_Price>5697.87</Stock_Price>
+  </row>
+  <row>
+    <index>218</index>
+    <Date>2023-08-07 00:00:00</Date>
+    <Revenue>992719.55</Revenue>
+    <Sales>59928.69</Sales>
+    <Stock_Price>6282.61</Stock_Price>
+  </row>
+  <row>
+    <index>219</index>
+    <Date>2023-08-08 00:00:00</Date>
+    <Revenue>1001228.11</Revenue>
+    <Sales>107021.32</Sales>
+    <Stock_Price>5983.06</Stock_Price>
+  </row>
+  <row>
+    <index>220</index>
+    <Date>2023-08-09 00:00:00</Date>
+    <Revenue>1034719.88</Revenue>
+    <Sales>99884.88</Sales>
+    <Stock_Price>5367.41</Stock_Price>
+  </row>
+  <row>
+    <index>221</index>
+    <Date>2023-08-10 00:00:00</Date>
+    <Revenue>971991.02</Revenue>
+    <Sales>66330.89</Sales>
+    <Stock_Price>6227.05</Stock_Price>
+  </row>
+  <row>
+    <index>222</index>
+    <Date>2023-08-11 00:00:00</Date>
+    <Revenue>1010293.9</Revenue>
+    <Sales>91541.96</Sales>
+    <Stock_Price>5174.67</Stock_Price>
+  </row>
+  <row>
+    <index>223</index>
+    <Date>2023-08-12 00:00:00</Date>
+    <Revenue>975809.26</Revenue>
+    <Sales>48974.28</Sales>
+    <Stock_Price>6831.38</Stock_Price>
+  </row>
+  <row>
+    <index>224</index>
+    <Date>2023-08-13 00:00:00</Date>
+    <Revenue>992921.02</Revenue>
+    <Sales>81398.21</Sales>
+    <Stock_Price>5674.77</Stock_Price>
+  </row>
+  <row>
+    <index>225</index>
+    <Date>2023-08-14 00:00:00</Date>
+    <Revenue>1016334.26</Revenue>
+    <Sales>88207.23</Sales>
+    <Stock_Price>6140.81</Stock_Price>
+  </row>
+  <row>
+    <index>226</index>
+    <Date>2023-08-15 00:00:00</Date>
+    <Revenue>1000964.2</Revenue>
+    <Sales>128516.98</Sales>
+    <Stock_Price>6198.3</Stock_Price>
+  </row>
+  <row>
+    <index>227</index>
+    <Date>2023-08-16 00:00:00</Date>
+    <Revenue>983833.83</Revenue>
+    <Sales>61106.39</Sales>
+    <Stock_Price>5818.77</Stock_Price>
+  </row>
+  <row>
+    <index>228</index>
+    <Date>2023-08-17 00:00:00</Date>
+    <Revenue>989270.44</Revenue>
+    <Sales>52476.02</Sales>
+    <Stock_Price>6410.69</Stock_Price>
+  </row>
+  <row>
+    <index>229</index>
+    <Date>2023-08-18 00:00:00</Date>
+    <Revenue>1010193.97</Revenue>
+    <Sales>58864.23</Sales>
+    <Stock_Price>5667.57</Stock_Price>
+  </row>
+  <row>
+    <index>230</index>
+    <Date>2023-08-19 00:00:00</Date>
+    <Revenue>989044.5</Revenue>
+    <Sales>51567.49</Sales>
+    <Stock_Price>6609.91</Stock_Price>
+  </row>
+  <row>
+    <index>231</index>
+    <Date>2023-08-20 00:00:00</Date>
+    <Revenue>1003246.88</Revenue>
+    <Sales>114991.62</Sales>
+    <Stock_Price>5057.81</Stock_Price>
+  </row>
+  <row>
+    <index>232</index>
+    <Date>2023-08-21 00:00:00</Date>
+    <Revenue>1000683.58</Revenue>
+    <Sales>122542.0</Sales>
+    <Stock_Price>6088.47</Stock_Price>
+  </row>
+  <row>
+    <index>233</index>
+    <Date>2023-08-22 00:00:00</Date>
+    <Revenue>990225.99</Revenue>
+    <Sales>84768.76</Sales>
+    <Stock_Price>7357.25</Stock_Price>
+  </row>
+  <row>
+    <index>234</index>
+    <Date>2023-08-23 00:00:00</Date>
+    <Revenue>1032159.16</Revenue>
+    <Sales>111079.99</Sales>
+    <Stock_Price>5299.77</Stock_Price>
+  </row>
+  <row>
+    <index>235</index>
+    <Date>2023-08-24 00:00:00</Date>
+    <Revenue>1009508.79</Revenue>
+    <Sales>80162.0</Sales>
+    <Stock_Price>5525.58</Stock_Price>
+  </row>
+  <row>
+    <index>236</index>
+    <Date>2023-08-25 00:00:00</Date>
+    <Revenue>969622.86</Revenue>
+    <Sales>74838.21</Sales>
+    <Stock_Price>6359.74</Stock_Price>
+  </row>
+  <row>
+    <index>237</index>
+    <Date>2023-08-26 00:00:00</Date>
+    <Revenue>1002796.81</Revenue>
+    <Sales>69682.61</Sales>
+    <Stock_Price>6125.71</Stock_Price>
+  </row>
+  <row>
+    <index>238</index>
+    <Date>2023-08-27 00:00:00</Date>
+    <Revenue>990073.2</Revenue>
+    <Sales>70157.64</Sales>
+    <Stock_Price>6245.44</Stock_Price>
+  </row>
+  <row>
+    <index>239</index>
+    <Date>2023-08-28 00:00:00</Date>
+    <Revenue>1012786.5</Revenue>
+    <Sales>48401.05</Sales>
+    <Stock_Price>6342.43</Stock_Price>
+  </row>
+  <row>
+    <index>240</index>
+    <Date>2023-08-29 00:00:00</Date>
+    <Revenue>988112.19</Revenue>
+    <Sales>83357.49</Sales>
+    <Stock_Price>6444.31</Stock_Price>
+  </row>
+  <row>
+    <index>241</index>
+    <Date>2023-08-30 00:00:00</Date>
+    <Revenue>998278.95</Revenue>
+    <Sales>76078.21</Sales>
+    <Stock_Price>6776.79</Stock_Price>
+  </row>
+  <row>
+    <index>242</index>
+    <Date>2023-08-31 00:00:00</Date>
+    <Revenue>1007574.81</Revenue>
+    <Sales>96300.19</Sales>
+    <Stock_Price>6286.87</Stock_Price>
+  </row>
+  <row>
+    <index>243</index>
+    <Date>2023-09-01 00:00:00</Date>
+    <Revenue>1012986.33</Revenue>
+    <Sales>79195.47</Sales>
+    <Stock_Price>5831.12</Stock_Price>
+  </row>
+  <row>
+    <index>244</index>
+    <Date>2023-09-02 00:00:00</Date>
+    <Revenue>981995.55</Revenue>
+    <Sales>73335.95</Sales>
+    <Stock_Price>6470.8</Stock_Price>
+  </row>
+  <row>
+    <index>245</index>
+    <Date>2023-09-03 00:00:00</Date>
+    <Revenue>994982.48</Revenue>
+    <Sales>59293.76</Sales>
+    <Stock_Price>7329.92</Stock_Price>
+  </row>
+  <row>
+    <index>246</index>
+    <Date>2023-09-04 00:00:00</Date>
+    <Revenue>992875.82</Revenue>
+    <Sales>78689.37</Sales>
+    <Stock_Price>5907.16</Stock_Price>
+  </row>
+  <row>
+    <index>247</index>
+    <Date>2023-09-05 00:00:00</Date>
+    <Revenue>990200.06</Revenue>
+    <Sales>96094.61</Sales>
+    <Stock_Price>5317.83</Stock_Price>
+  </row>
+  <row>
+    <index>248</index>
+    <Date>2023-09-06 00:00:00</Date>
+    <Revenue>1026481.81</Revenue>
+    <Sales>54645.14</Sales>
+    <Stock_Price>6774.96</Stock_Price>
+  </row>
+  <row>
+    <index>249</index>
+    <Date>2023-09-07 00:00:00</Date>
+    <Revenue>1006074.73</Revenue>
+    <Sales>79051.87</Sales>
+    <Stock_Price>5915.73</Stock_Price>
+  </row>
+  <row>
+    <index>250</index>
+    <Date>2023-09-08 00:00:00</Date>
+    <Revenue>981086.74</Revenue>
+    <Sales>82580.61</Sales>
+    <Stock_Price>4479.13</Stock_Price>
+  </row>
+  <row>
+    <index>251</index>
+    <Date>2023-09-09 00:00:00</Date>
+    <Revenue>1013767.93</Revenue>
+    <Sales>62081.16</Sales>
+    <Stock_Price>6593.2</Stock_Price>
+  </row>
+  <row>
+    <index>252</index>
+    <Date>2023-09-10 00:00:00</Date>
+    <Revenue>1031832.34</Revenue>
+    <Sales>64554.2</Sales>
+    <Stock_Price>5625.27</Stock_Price>
+  </row>
+  <row>
+    <index>253</index>
+    <Date>2023-09-11 00:00:00</Date>
+    <Revenue>1015486.98</Revenue>
+    <Sales>82520.38</Sales>
+    <Stock_Price>5936.63</Stock_Price>
+  </row>
+  <row>
+    <index>254</index>
+    <Date>2023-09-12 00:00:00</Date>
+    <Revenue>977209.45</Revenue>
+    <Sales>54807.98</Sales>
+    <Stock_Price>6232.39</Stock_Price>
+  </row>
+  <row>
+    <index>255</index>
+    <Date>2023-09-13 00:00:00</Date>
+    <Revenue>992736.49</Revenue>
+    <Sales>85527.6</Sales>
+    <Stock_Price>6133.35</Stock_Price>
+  </row>
+  <row>
+    <index>256</index>
+    <Date>2023-09-14 00:00:00</Date>
+    <Revenue>1019003.67</Revenue>
+    <Sales>58865.53</Sales>
+    <Stock_Price>6496.62</Stock_Price>
+  </row>
+  <row>
+    <index>257</index>
+    <Date>2023-09-15 00:00:00</Date>
+    <Revenue>989384.96</Revenue>
+    <Sales>105923.61</Sales>
+    <Stock_Price>5695.16</Stock_Price>
+  </row>
+  <row>
+    <index>258</index>
+    <Date>2023-09-16 00:00:00</Date>
+    <Revenue>1006657.29</Revenue>
+    <Sales>155276.96</Sales>
+    <Stock_Price>6359.17</Stock_Price>
+  </row>
+  <row>
+    <index>259</index>
+    <Date>2023-09-17 00:00:00</Date>
+    <Revenue>1011619.51</Revenue>
+    <Sales>59479.7</Sales>
+    <Stock_Price>5818.32</Stock_Price>
+  </row>
+  <row>
+    <index>260</index>
+    <Date>2023-09-18 00:00:00</Date>
+    <Revenue>986096.04</Revenue>
+    <Sales>90389.17</Sales>
+    <Stock_Price>6517.17</Stock_Price>
+  </row>
+  <row>
+    <index>261</index>
+    <Date>2023-09-19 00:00:00</Date>
+    <Revenue>999107.12</Revenue>
+    <Sales>61919.77</Sales>
+    <Stock_Price>6430.76</Stock_Price>
+  </row>
+  <row>
+    <index>262</index>
+    <Date>2023-09-20 00:00:00</Date>
+    <Revenue>951380.99</Revenue>
+    <Sales>105229.99</Sales>
+    <Stock_Price>5345.19</Stock_Price>
+  </row>
+  <row>
+    <index>263</index>
+    <Date>2023-09-21 00:00:00</Date>
+    <Revenue>984634.19</Revenue>
+    <Sales>52682.56</Sales>
+    <Stock_Price>6760.19</Stock_Price>
+  </row>
+  <row>
+    <index>264</index>
+    <Date>2023-09-22 00:00:00</Date>
+    <Revenue>996211.48</Revenue>
+    <Sales>88946.77</Sales>
+    <Stock_Price>5624.83</Stock_Price>
+  </row>
+  <row>
+    <index>265</index>
+    <Date>2023-09-23 00:00:00</Date>
+    <Revenue>981283.25</Revenue>
+    <Sales>59261.83</Sales>
+    <Stock_Price>6565.64</Stock_Price>
+  </row>
+  <row>
+    <index>266</index>
+    <Date>2023-09-24 00:00:00</Date>
+    <Revenue>1024486.17</Revenue>
+    <Sales>72368.18</Sales>
+    <Stock_Price>6257.1</Stock_Price>
+  </row>
+  <row>
+    <index>267</index>
+    <Date>2023-09-25 00:00:00</Date>
+    <Revenue>978547.88</Revenue>
+    <Sales>56517.73</Sales>
+    <Stock_Price>7286.73</Stock_Price>
+  </row>
+  <row>
+    <index>268</index>
+    <Date>2023-09-26 00:00:00</Date>
+    <Revenue>993399.33</Revenue>
+    <Sales>98550.31</Sales>
+    <Stock_Price>5843.57</Stock_Price>
+  </row>
+  <row>
+    <index>269</index>
+    <Date>2023-09-27 00:00:00</Date>
+    <Revenue>1001961.11</Revenue>
+    <Sales>59905.48</Sales>
+    <Stock_Price>5755.48</Stock_Price>
+  </row>
+  <row>
+    <index>270</index>
+    <Date>2023-09-28 00:00:00</Date>
+    <Revenue>1021619.1</Revenue>
+    <Sales>90871.95</Sales>
+    <Stock_Price>5986.41</Stock_Price>
+  </row>
+  <row>
+    <index>271</index>
+    <Date>2023-09-29 00:00:00</Date>
+    <Revenue>978462.07</Revenue>
+    <Sales>69451.78</Sales>
+    <Stock_Price>5787.77</Stock_Price>
+  </row>
+  <row>
+    <index>272</index>
+    <Date>2023-09-30 00:00:00</Date>
+    <Revenue>1017447.46</Revenue>
+    <Sales>74404.79</Sales>
+    <Stock_Price>6559.96</Stock_Price>
+  </row>
+  <row>
+    <index>273</index>
+    <Date>2023-10-01 00:00:00</Date>
+    <Revenue>1000153.5</Revenue>
+    <Sales>80494.5</Sales>
+    <Stock_Price>4868.58</Stock_Price>
+  </row>
+  <row>
+    <index>274</index>
+    <Date>2023-10-02 00:00:00</Date>
+    <Revenue>985277.37</Revenue>
+    <Sales>61271.49</Sales>
+    <Stock_Price>5262.42</Stock_Price>
+  </row>
+  <row>
+    <index>275</index>
+    <Date>2023-10-03 00:00:00</Date>
+    <Revenue>1006931.55</Revenue>
+    <Sales>82020.74</Sales>
+    <Stock_Price>5252.54</Stock_Price>
+  </row>
+  <row>
+    <index>276</index>
+    <Date>2023-10-04 00:00:00</Date>
+    <Revenue>1002985.9</Revenue>
+    <Sales>121870.92</Sales>
+    <Stock_Price>6665.22</Stock_Price>
+  </row>
+  <row>
+    <index>277</index>
+    <Date>2023-10-05 00:00:00</Date>
+    <Revenue>990996.75</Revenue>
+    <Sales>60973.15</Sales>
+    <Stock_Price>7197.43</Stock_Price>
+  </row>
+  <row>
+    <index>278</index>
+    <Date>2023-10-06 00:00:00</Date>
+    <Revenue>1001047.03</Revenue>
+    <Sales>109443.13</Sales>
+    <Stock_Price>5926.89</Stock_Price>
+  </row>
+  <row>
+    <index>279</index>
+    <Date>2023-10-07 00:00:00</Date>
+    <Revenue>994220.3</Revenue>
+    <Sales>120697.97</Sales>
+    <Stock_Price>5881.82</Stock_Price>
+  </row>
+  <row>
+    <index>280</index>
+    <Date>2023-10-08 00:00:00</Date>
+    <Revenue>1001702.76</Revenue>
+    <Sales>60280.92</Sales>
+    <Stock_Price>6049.04</Stock_Price>
+  </row>
+  <row>
+    <index>281</index>
+    <Date>2023-10-09 00:00:00</Date>
+    <Revenue>1009931.96</Revenue>
+    <Sales>49766.68</Sales>
+    <Stock_Price>6813.31</Stock_Price>
+  </row>
+  <row>
+    <index>282</index>
+    <Date>2023-10-10 00:00:00</Date>
+    <Revenue>1023790.25</Revenue>
+    <Sales>84305.77</Sales>
+    <Stock_Price>5350.85</Stock_Price>
+  </row>
+  <row>
+    <index>283</index>
+    <Date>2023-10-11 00:00:00</Date>
+    <Revenue>981432.77</Revenue>
+    <Sales>65342.31</Sales>
+    <Stock_Price>6166.86</Stock_Price>
+  </row>
+  <row>
+    <index>284</index>
+    <Date>2023-10-12 00:00:00</Date>
+    <Revenue>1031995.5</Revenue>
+    <Sales>134887.76</Sales>
+    <Stock_Price>6682.64</Stock_Price>
+  </row>
+  <row>
+    <index>285</index>
+    <Date>2023-10-13 00:00:00</Date>
+    <Revenue>970718.68</Revenue>
+    <Sales>77812.67</Sales>
+    <Stock_Price>6350.77</Stock_Price>
+  </row>
+  <row>
+    <index>286</index>
+    <Date>2023-10-14 00:00:00</Date>
+    <Revenue>997723.22</Revenue>
+    <Sales>60533.82</Sales>
+    <Stock_Price>6132.71</Stock_Price>
+  </row>
+  <row>
+    <index>287</index>
+    <Date>2023-10-15 00:00:00</Date>
+    <Revenue>1008824.76</Revenue>
+    <Sales>54582.55</Sales>
+    <Stock_Price>6700.73</Stock_Price>
+  </row>
+  <row>
+    <index>288</index>
+    <Date>2023-10-16 00:00:00</Date>
+    <Revenue>1004214.88</Revenue>
+    <Sales>106786.72</Sales>
+    <Stock_Price>4107.74</Stock_Price>
+  </row>
+  <row>
+    <index>289</index>
+    <Date>2023-10-17 00:00:00</Date>
+    <Revenue>990659.51</Revenue>
+    <Sales>64877.89</Sales>
+    <Stock_Price>6474.51</Stock_Price>
+  </row>
+  <row>
+    <index>290</index>
+    <Date>2023-10-18 00:00:00</Date>
+    <Revenue>996878.17</Revenue>
+    <Sales>78023.55</Sales>
+    <Stock_Price>5542.15</Stock_Price>
+  </row>
+  <row>
+    <index>291</index>
+    <Date>2023-10-19 00:00:00</Date>
+    <Revenue>992604.99</Revenue>
+    <Sales>102575.89</Sales>
+    <Stock_Price>4718.56</Stock_Price>
+  </row>
+  <row>
+    <index>292</index>
+    <Date>2023-10-20 00:00:00</Date>
+    <Revenue>991159.53</Revenue>
+    <Sales>66592.01</Sales>
+    <Stock_Price>6357.84</Stock_Price>
+  </row>
+  <row>
+    <index>293</index>
+    <Date>2023-10-21 00:00:00</Date>
+    <Revenue>1012744.03</Revenue>
+    <Sales>75950.62</Sales>
+    <Stock_Price>6961.56</Stock_Price>
+  </row>
+  <row>
+    <index>294</index>
+    <Date>2023-10-22 00:00:00</Date>
+    <Revenue>1005355.23</Revenue>
+    <Sales>76622.56</Sales>
+    <Stock_Price>5903.79</Stock_Price>
+  </row>
+  <row>
+    <index>295</index>
+    <Date>2023-10-23 00:00:00</Date>
+    <Revenue>989606.36</Revenue>
+    <Sales>94524.53</Sales>
+    <Stock_Price>6667.01</Stock_Price>
+  </row>
+  <row>
+    <index>296</index>
+    <Date>2023-10-24 00:00:00</Date>
+    <Revenue>1013494.0</Revenue>
+    <Sales>91935.33</Sales>
+    <Stock_Price>7128.59</Stock_Price>
+  </row>
+  <row>
+    <index>297</index>
+    <Date>2023-10-25 00:00:00</Date>
+    <Revenue>1004609.49</Revenue>
+    <Sales>72083.7</Sales>
+    <Stock_Price>6920.44</Stock_Price>
+  </row>
+  <row>
+    <index>298</index>
+    <Date>2023-10-26 00:00:00</Date>
+    <Revenue>1012192.93</Revenue>
+    <Sales>78488.87</Sales>
+    <Stock_Price>7147.98</Stock_Price>
+  </row>
+  <row>
+    <index>299</index>
+    <Date>2023-10-27 00:00:00</Date>
+    <Revenue>1009444.43</Revenue>
+    <Sales>68877.42</Sales>
+    <Stock_Price>6519.49</Stock_Price>
+  </row>
+  <row>
+    <index>300</index>
+    <Date>2023-10-28 00:00:00</Date>
+    <Revenue>987565.07</Revenue>
+    <Sales>49431.03</Sales>
+    <Stock_Price>6052.8</Stock_Price>
+  </row>
+  <row>
+    <index>301</index>
+    <Date>2023-10-29 00:00:00</Date>
+    <Revenue>991597.28</Revenue>
+    <Sales>83191.26</Sales>
+    <Stock_Price>4878.62</Stock_Price>
+  </row>
+  <row>
+    <index>302</index>
+    <Date>2023-10-30 00:00:00</Date>
+    <Revenue>1011209.4</Revenue>
+    <Sales>135845.69</Sales>
+    <Stock_Price>5827.76</Stock_Price>
+  </row>
+  <row>
+    <index>303</index>
+    <Date>2023-10-31 00:00:00</Date>
+    <Revenue>1009155.55</Revenue>
+    <Sales>59071.37</Sales>
+    <Stock_Price>5409.73</Stock_Price>
+  </row>
+  <row>
+    <index>304</index>
+    <Date>2023-11-01 00:00:00</Date>
+    <Revenue>999686.48</Revenue>
+    <Sales>61065.87</Sales>
+    <Stock_Price>7519.66</Stock_Price>
+  </row>
+  <row>
+    <index>305</index>
+    <Date>2023-11-02 00:00:00</Date>
+    <Revenue>1001759.91</Revenue>
+    <Sales>59302.04</Sales>
+    <Stock_Price>5876.88</Stock_Price>
+  </row>
+  <row>
+    <index>306</index>
+    <Date>2023-11-03 00:00:00</Date>
+    <Revenue>1019164.97</Revenue>
+    <Sales>95702.04</Sales>
+    <Stock_Price>6086.24</Stock_Price>
+  </row>
+  <row>
+    <index>307</index>
+    <Date>2023-11-04 00:00:00</Date>
+    <Revenue>991126.43</Revenue>
+    <Sales>88094.29</Sales>
+    <Stock_Price>6386.04</Stock_Price>
+  </row>
+  <row>
+    <index>308</index>
+    <Date>2023-11-05 00:00:00</Date>
+    <Revenue>1008206.46</Revenue>
+    <Sales>73427.66</Sales>
+    <Stock_Price>6030.52</Stock_Price>
+  </row>
+  <row>
+    <index>309</index>
+    <Date>2023-11-06 00:00:00</Date>
+    <Revenue>996967.11</Revenue>
+    <Sales>58466.64</Sales>
+    <Stock_Price>7186.54</Stock_Price>
+  </row>
+  <row>
+    <index>310</index>
+    <Date>2023-11-07 00:00:00</Date>
+    <Revenue>996734.78</Revenue>
+    <Sales>79168.23</Sales>
+    <Stock_Price>5564.15</Stock_Price>
+  </row>
+  <row>
+    <index>311</index>
+    <Date>2023-11-08 00:00:00</Date>
+    <Revenue>1016481.65</Revenue>
+    <Sales>48157.43</Sales>
+    <Stock_Price>6136.23</Stock_Price>
+  </row>
+  <row>
+    <index>312</index>
+    <Date>2023-11-09 00:00:00</Date>
+    <Revenue>1012381.25</Revenue>
+    <Sales>80390.02</Sales>
+    <Stock_Price>5480.27</Stock_Price>
+  </row>
+  <row>
+    <index>313</index>
+    <Date>2023-11-10 00:00:00</Date>
+    <Revenue>1012202.64</Revenue>
+    <Sales>100014.92</Sales>
+    <Stock_Price>5075.98</Stock_Price>
+  </row>
+  <row>
+    <index>314</index>
+    <Date>2023-11-11 00:00:00</Date>
+    <Revenue>1019582.18</Revenue>
+    <Sales>52905.24</Sales>
+    <Stock_Price>5571.76</Stock_Price>
+  </row>
+  <row>
+    <index>315</index>
+    <Date>2023-11-12 00:00:00</Date>
+    <Revenue>1000315.06</Revenue>
+    <Sales>48623.48</Sales>
+    <Stock_Price>5974.07</Stock_Price>
+  </row>
+  <row>
+    <index>316</index>
+    <Date>2023-11-13 00:00:00</Date>
+    <Revenue>1010229.29</Revenue>
+    <Sales>123679.49</Sales>
+    <Stock_Price>5699.49</Stock_Price>
+  </row>
+  <row>
+    <index>317</index>
+    <Date>2023-11-14 00:00:00</Date>
+    <Revenue>995346.0</Revenue>
+    <Sales>64092.94</Sales>
+    <Stock_Price>5515.31</Stock_Price>
+  </row>
+  <row>
+    <index>318</index>
+    <Date>2023-11-15 00:00:00</Date>
+    <Revenue>1004862.5</Revenue>
+    <Sales>108271.98</Sales>
+    <Stock_Price>5015.58</Stock_Price>
+  </row>
+  <row>
+    <index>319</index>
+    <Date>2023-11-16 00:00:00</Date>
+    <Revenue>998047.85</Revenue>
+    <Sales>73527.74</Sales>
+    <Stock_Price>5941.83</Stock_Price>
+  </row>
+  <row>
+    <index>320</index>
+    <Date>2023-11-17 00:00:00</Date>
+    <Revenue>1001454.94</Revenue>
+    <Sales>73352.43</Sales>
+    <Stock_Price>4946.7</Stock_Price>
+  </row>
+  <row>
+    <index>321</index>
+    <Date>2023-11-18 00:00:00</Date>
+    <Revenue>1008927.36</Revenue>
+    <Sales>87828.48</Sales>
+    <Stock_Price>6532.04</Stock_Price>
+  </row>
+  <row>
+    <index>322</index>
+    <Date>2023-11-19 00:00:00</Date>
+    <Revenue>987726.69</Revenue>
+    <Sales>59066.41</Sales>
+    <Stock_Price>6057.71</Stock_Price>
+  </row>
+  <row>
+    <index>323</index>
+    <Date>2023-11-20 00:00:00</Date>
+    <Revenue>1031385.81</Revenue>
+    <Sales>80126.87</Sales>
+    <Stock_Price>4979.71</Stock_Price>
+  </row>
+  <row>
+    <index>324</index>
+    <Date>2023-11-21 00:00:00</Date>
+    <Revenue>984909.74</Revenue>
+    <Sales>68677.06</Sales>
+    <Stock_Price>5783.55</Stock_Price>
+  </row>
+  <row>
+    <index>325</index>
+    <Date>2023-11-22 00:00:00</Date>
+    <Revenue>981787.17</Revenue>
+    <Sales>51816.78</Sales>
+    <Stock_Price>5473.49</Stock_Price>
+  </row>
+  <row>
+    <index>326</index>
+    <Date>2023-11-23 00:00:00</Date>
+    <Revenue>1017371.66</Revenue>
+    <Sales>85208.97</Sales>
+    <Stock_Price>6223.42</Stock_Price>
+  </row>
+  <row>
+    <index>327</index>
+    <Date>2023-11-24 00:00:00</Date>
+    <Revenue>1011874.94</Revenue>
+    <Sales>71155.65</Sales>
+    <Stock_Price>6938.32</Stock_Price>
+  </row>
+  <row>
+    <index>328</index>
+    <Date>2023-11-25 00:00:00</Date>
+    <Revenue>1009361.8</Revenue>
+    <Sales>73461.0</Sales>
+    <Stock_Price>4687.38</Stock_Price>
+  </row>
+  <row>
+    <index>329</index>
+    <Date>2023-11-26 00:00:00</Date>
+    <Revenue>1009425.18</Revenue>
+    <Sales>53560.6</Sales>
+    <Stock_Price>6080.52</Stock_Price>
+  </row>
+  <row>
+    <index>330</index>
+    <Date>2023-11-27 00:00:00</Date>
+    <Revenue>999816.3</Revenue>
+    <Sales>124124.14</Sales>
+    <Stock_Price>5887.91</Stock_Price>
+  </row>
+  <row>
+    <index>331</index>
+    <Date>2023-11-28 00:00:00</Date>
+    <Revenue>986541.18</Revenue>
+    <Sales>100170.76</Sales>
+    <Stock_Price>6469.94</Stock_Price>
+  </row>
+  <row>
+    <index>332</index>
+    <Date>2023-11-29 00:00:00</Date>
+    <Revenue>1001137.07</Revenue>
+    <Sales>102833.26</Sales>
+    <Stock_Price>6149.24</Stock_Price>
+  </row>
+  <row>
+    <index>333</index>
+    <Date>2023-11-30 00:00:00</Date>
+    <Revenue>989842.57</Revenue>
+    <Sales>70261.83</Sales>
+    <Stock_Price>5473.62</Stock_Price>
+  </row>
+  <row>
+    <index>334</index>
+    <Date>2023-12-01 00:00:00</Date>
+    <Revenue>1014626.8</Revenue>
+    <Sales>45837.71</Sales>
+    <Stock_Price>5776.66</Stock_Price>
+  </row>
+  <row>
+    <index>335</index>
+    <Date>2023-12-02 00:00:00</Date>
+    <Revenue>997794.14</Revenue>
+    <Sales>138343.16</Sales>
+    <Stock_Price>5442.78</Stock_Price>
+  </row>
+  <row>
+    <index>336</index>
+    <Date>2023-12-03 00:00:00</Date>
+    <Revenue>987617.54</Revenue>
+    <Sales>75605.79</Sales>
+    <Stock_Price>6753.2</Stock_Price>
+  </row>
+  <row>
+    <index>337</index>
+    <Date>2023-12-04 00:00:00</Date>
+    <Revenue>995179.21</Revenue>
+    <Sales>61511.37</Sales>
+    <Stock_Price>6014.92</Stock_Price>
+  </row>
+  <row>
+    <index>338</index>
+    <Date>2023-12-05 00:00:00</Date>
+    <Revenue>1006193.97</Revenue>
+    <Sales>87260.9</Sales>
+    <Stock_Price>7330.83</Stock_Price>
+  </row>
+  <row>
+    <index>339</index>
+    <Date>2023-12-06 00:00:00</Date>
+    <Revenue>991544.13</Revenue>
+    <Sales>109289.28</Sales>
+    <Stock_Price>5957.54</Stock_Price>
+  </row>
+  <row>
+    <index>340</index>
+    <Date>2023-12-07 00:00:00</Date>
+    <Revenue>987666.69</Revenue>
+    <Sales>76473.7</Sales>
+    <Stock_Price>5504.12</Stock_Price>
+  </row>
+  <row>
+    <index>341</index>
+    <Date>2023-12-08 00:00:00</Date>
+    <Revenue>1003655.31</Revenue>
+    <Sales>113005.29</Sales>
+    <Stock_Price>4940.4</Stock_Price>
+  </row>
+  <row>
+    <index>342</index>
+    <Date>2023-12-09 00:00:00</Date>
+    <Revenue>1003674.5</Revenue>
+    <Sales>106565.74</Sales>
+    <Stock_Price>4737.8</Stock_Price>
+  </row>
+  <row>
+    <index>343</index>
+    <Date>2023-12-10 00:00:00</Date>
+    <Revenue>992395.85</Revenue>
+    <Sales>55753.92</Sales>
+    <Stock_Price>4891.1</Stock_Price>
+  </row>
+  <row>
+    <index>344</index>
+    <Date>2023-12-11 00:00:00</Date>
+    <Revenue>992934.43</Revenue>
+    <Sales>62911.25</Sales>
+    <Stock_Price>6186.99</Stock_Price>
+  </row>
+  <row>
+    <index>345</index>
+    <Date>2023-12-12 00:00:00</Date>
+    <Revenue>1003480.75</Revenue>
+    <Sales>102629.27</Sales>
+    <Stock_Price>6356.11</Stock_Price>
+  </row>
+  <row>
+    <index>346</index>
+    <Date>2023-12-13 00:00:00</Date>
+    <Revenue>978278.73</Revenue>
+    <Sales>34126.64</Sales>
+    <Stock_Price>4893.17</Stock_Price>
+  </row>
+  <row>
+    <index>347</index>
+    <Date>2023-12-14 00:00:00</Date>
+    <Revenue>978888.04</Revenue>
+    <Sales>73628.0</Sales>
+    <Stock_Price>6626.53</Stock_Price>
+  </row>
+  <row>
+    <index>348</index>
+    <Date>2023-12-15 00:00:00</Date>
+    <Revenue>989223.34</Revenue>
+    <Sales>50129.65</Sales>
+    <Stock_Price>5661.86</Stock_Price>
+  </row>
+  <row>
+    <index>349</index>
+    <Date>2023-12-16 00:00:00</Date>
+    <Revenue>996798.29</Revenue>
+    <Sales>66746.1</Sales>
+    <Stock_Price>6102.76</Stock_Price>
+  </row>
+  <row>
+    <index>350</index>
+    <Date>2023-12-17 00:00:00</Date>
+    <Revenue>1004663.61</Revenue>
+    <Sales>70401.6</Sales>
+    <Stock_Price>7128.55</Stock_Price>
+  </row>
+  <row>
+    <index>351</index>
+    <Date>2023-12-18 00:00:00</Date>
+    <Revenue>1022130.34</Revenue>
+    <Sales>69157.65</Sales>
+    <Stock_Price>6627.79</Stock_Price>
+  </row>
+  <row>
+    <index>352</index>
+    <Date>2023-12-19 00:00:00</Date>
+    <Revenue>1012864.89</Revenue>
+    <Sales>65247.24</Sales>
+    <Stock_Price>5812.03</Stock_Price>
+  </row>
+  <row>
+    <index>353</index>
+    <Date>2023-12-20 00:00:00</Date>
+    <Revenue>997600.92</Revenue>
+    <Sales>55407.72</Sales>
+    <Stock_Price>5376.17</Stock_Price>
+  </row>
+  <row>
+    <index>354</index>
+    <Date>2023-12-21 00:00:00</Date>
+    <Revenue>999714.76</Revenue>
+    <Sales>153152.7</Sales>
+    <Stock_Price>4493.73</Stock_Price>
+  </row>
+  <row>
+    <index>355</index>
+    <Date>2023-12-22 00:00:00</Date>
+    <Revenue>984962.06</Revenue>
+    <Sales>134841.59</Sales>
+    <Stock_Price>5496.59</Stock_Price>
+  </row>
+  <row>
+    <index>356</index>
+    <Date>2023-12-23 00:00:00</Date>
+    <Revenue>999722.3</Revenue>
+    <Sales>54339.01</Sales>
+    <Stock_Price>5852.21</Stock_Price>
+  </row>
+  <row>
+    <index>357</index>
+    <Date>2023-12-24 00:00:00</Date>
+    <Revenue>995670.12</Revenue>
+    <Sales>123778.92</Sales>
+    <Stock_Price>5308.97</Stock_Price>
+  </row>
+  <row>
+    <index>358</index>
+    <Date>2023-12-25 00:00:00</Date>
+    <Revenue>1004840.78</Revenue>
+    <Sales>68307.69</Sales>
+    <Stock_Price>5908.12</Stock_Price>
+  </row>
+  <row>
+    <index>359</index>
+    <Date>2023-12-26 00:00:00</Date>
+    <Revenue>987591.54</Revenue>
+    <Sales>80047.35</Sales>
+    <Stock_Price>6053.8</Stock_Price>
+  </row>
+  <row>
+    <index>360</index>
+    <Date>2023-12-27 00:00:00</Date>
+    <Revenue>1007790.2</Revenue>
+    <Sales>75556.44</Sales>
+    <Stock_Price>5842.6</Stock_Price>
+  </row>
+  <row>
+    <index>361</index>
+    <Date>2023-12-28 00:00:00</Date>
+    <Revenue>1022991.08</Revenue>
+    <Sales>63176.82</Sales>
+    <Stock_Price>5545.0</Stock_Price>
+  </row>
+  <row>
+    <index>362</index>
+    <Date>2023-12-29 00:00:00</Date>
+    <Revenue>998368.6</Revenue>
+    <Sales>103442.69</Sales>
+    <Stock_Price>6118.06</Stock_Price>
+  </row>
+  <row>
+    <index>363</index>
+    <Date>2023-12-30 00:00:00</Date>
+    <Revenue>1006025.68</Revenue>
+    <Sales>79968.12</Sales>
+    <Stock_Price>6309.36</Stock_Price>
+  </row>
+  <row>
+    <index>364</index>
+    <Date>2023-12-31 00:00:00</Date>
+    <Revenue>1010352.16</Revenue>
+    <Sales>66746.15</Sales>
+    <Stock_Price>5236.72</Stock_Price>
+  </row>
+  <row>
+    <index>365</index>
+    <Date>2024-01-01 00:00:00</Date>
+    <Revenue>993981.69</Revenue>
+    <Sales>52064.6</Sales>
+    <Stock_Price>6987.65</Stock_Price>
+  </row>
+  <row>
+    <index>366</index>
+    <Date>2024-01-02 00:00:00</Date>
+    <Revenue>1003361.39</Revenue>
+    <Sales>58896.61</Sales>
+    <Stock_Price>5930.99</Stock_Price>
+  </row>
+  <row>
+    <index>367</index>
+    <Date>2024-01-03 00:00:00</Date>
+    <Revenue>1000188.89</Revenue>
+    <Sales>47061.16</Sales>
+    <Stock_Price>6013.19</Stock_Price>
+  </row>
+  <row>
+    <index>368</index>
+    <Date>2024-01-04 00:00:00</Date>
+    <Revenue>1001465.14</Revenue>
+    <Sales>77287.26</Sales>
+    <Stock_Price>6495.75</Stock_Price>
+  </row>
+  <row>
+    <index>369</index>
+    <Date>2024-01-05 00:00:00</Date>
+    <Revenue>988404.85</Revenue>
+    <Sales>53777.89</Sales>
+    <Stock_Price>6163.25</Stock_Price>
+  </row>
+  <row>
+    <index>370</index>
+    <Date>2024-01-06 00:00:00</Date>
+    <Revenue>1000367.65</Revenue>
+    <Sales>71107.58</Sales>
+    <Stock_Price>6667.2</Stock_Price>
+  </row>
+  <row>
+    <index>371</index>
+    <Date>2024-01-07 00:00:00</Date>
+    <Revenue>1007469.97</Revenue>
+    <Sales>116151.18</Sales>
+    <Stock_Price>6200.99</Stock_Price>
+  </row>
+  <row>
+    <index>372</index>
+    <Date>2024-01-08 00:00:00</Date>
+    <Revenue>1021767.15</Revenue>
+    <Sales>110349.43</Sales>
+    <Stock_Price>5571.29</Stock_Price>
+  </row>
+  <row>
+    <index>373</index>
+    <Date>2024-01-09 00:00:00</Date>
+    <Revenue>1014389.06</Revenue>
+    <Sales>76262.32</Sales>
+    <Stock_Price>6253.05</Stock_Price>
+  </row>
+  <row>
+    <index>374</index>
+    <Date>2024-01-10 00:00:00</Date>
+    <Revenue>1032297.74</Revenue>
+    <Sales>75018.64</Sales>
+    <Stock_Price>5199.39</Stock_Price>
+  </row>
+  <row>
+    <index>375</index>
+    <Date>2024-01-11 00:00:00</Date>
+    <Revenue>988489.79</Revenue>
+    <Sales>135344.64</Sales>
+    <Stock_Price>6075.99</Stock_Price>
+  </row>
+  <row>
+    <index>376</index>
+    <Date>2024-01-12 00:00:00</Date>
+    <Revenue>1013084.81</Revenue>
+    <Sales>90025.13</Sales>
+    <Stock_Price>5976.74</Stock_Price>
+  </row>
+  <row>
+    <index>377</index>
+    <Date>2024-01-13 00:00:00</Date>
+    <Revenue>1002750.13</Revenue>
+    <Sales>69792.05</Sales>
+    <Stock_Price>5854.32</Stock_Price>
+  </row>
+  <row>
+    <index>378</index>
+    <Date>2024-01-14 00:00:00</Date>
+    <Revenue>1032847.04</Revenue>
+    <Sales>50202.09</Sales>
+    <Stock_Price>5910.02</Stock_Price>
+  </row>
+  <row>
+    <index>379</index>
+    <Date>2024-01-15 00:00:00</Date>
+    <Revenue>987875.53</Revenue>
+    <Sales>86662.74</Sales>
+    <Stock_Price>4682.71</Stock_Price>
+  </row>
+  <row>
+    <index>380</index>
+    <Date>2024-01-16 00:00:00</Date>
+    <Revenue>987404.17</Revenue>
+    <Sales>98756.69</Sales>
+    <Stock_Price>5615.89</Stock_Price>
+  </row>
+  <row>
+    <index>381</index>
+    <Date>2024-01-17 00:00:00</Date>
+    <Revenue>991009.11</Revenue>
+    <Sales>63711.6</Sales>
+    <Stock_Price>6064.99</Stock_Price>
+  </row>
+  <row>
+    <index>382</index>
+    <Date>2024-01-18 00:00:00</Date>
+    <Revenue>968141.56</Revenue>
+    <Sales>84034.12</Sales>
+    <Stock_Price>6111.9</Stock_Price>
+  </row>
+  <row>
+    <index>383</index>
+    <Date>2024-01-19 00:00:00</Date>
+    <Revenue>992113.67</Revenue>
+    <Sales>69047.18</Sales>
+    <Stock_Price>5280.63</Stock_Price>
+  </row>
+  <row>
+    <index>384</index>
+    <Date>2024-01-20 00:00:00</Date>
+    <Revenue>988613.01</Revenue>
+    <Sales>72868.2</Sales>
+    <Stock_Price>6886.0</Stock_Price>
+  </row>
+  <row>
+    <index>385</index>
+    <Date>2024-01-21 00:00:00</Date>
+    <Revenue>1002255.91</Revenue>
+    <Sales>36507.42</Sales>
+    <Stock_Price>5393.68</Stock_Price>
+  </row>
+  <row>
+    <index>386</index>
+    <Date>2024-01-22 00:00:00</Date>
+    <Revenue>1005126.34</Revenue>
+    <Sales>72047.64</Sales>
+    <Stock_Price>6678.62</Stock_Price>
+  </row>
+  <row>
+    <index>387</index>
+    <Date>2024-01-23 00:00:00</Date>
+    <Revenue>1028142.56</Revenue>
+    <Sales>102994.22</Sales>
+    <Stock_Price>6299.04</Stock_Price>
+  </row>
+  <row>
+    <index>388</index>
+    <Date>2024-01-24 00:00:00</Date>
+    <Revenue>1014256.36</Revenue>
+    <Sales>63716.36</Sales>
+    <Stock_Price>5547.64</Stock_Price>
+  </row>
+  <row>
+    <index>389</index>
+    <Date>2024-01-25 00:00:00</Date>
+    <Revenue>991346.45</Revenue>
+    <Sales>78227.4</Sales>
+    <Stock_Price>7242.72</Stock_Price>
+  </row>
+  <row>
+    <index>390</index>
+    <Date>2024-01-26 00:00:00</Date>
+    <Revenue>986523.78</Revenue>
+    <Sales>61379.56</Sales>
+    <Stock_Price>5164.45</Stock_Price>
+  </row>
+  <row>
+    <index>391</index>
+    <Date>2024-01-27 00:00:00</Date>
+    <Revenue>1007378.79</Revenue>
+    <Sales>85797.9</Sales>
+    <Stock_Price>6643.41</Stock_Price>
+  </row>
+  <row>
+    <index>392</index>
+    <Date>2024-01-28 00:00:00</Date>
+    <Revenue>980196.5</Revenue>
+    <Sales>72161.39</Sales>
+    <Stock_Price>6700.41</Stock_Price>
+  </row>
+  <row>
+    <index>393</index>
+    <Date>2024-01-29 00:00:00</Date>
+    <Revenue>1027471.88</Revenue>
+    <Sales>58095.58</Sales>
+    <Stock_Price>5530.57</Stock_Price>
+  </row>
+  <row>
+    <index>394</index>
+    <Date>2024-01-30 00:00:00</Date>
+    <Revenue>1017691.6</Revenue>
+    <Sales>114850.07</Sales>
+    <Stock_Price>6974.73</Stock_Price>
+  </row>
+  <row>
+    <index>395</index>
+    <Date>2024-01-31 00:00:00</Date>
+    <Revenue>992962.37</Revenue>
+    <Sales>101752.32</Sales>
+    <Stock_Price>5824.97</Stock_Price>
+  </row>
+  <row>
+    <index>396</index>
+    <Date>2024-02-01 00:00:00</Date>
+    <Revenue>974302.98</Revenue>
+    <Sales>64224.84</Sales>
+    <Stock_Price>6202.09</Stock_Price>
+  </row>
+  <row>
+    <index>397</index>
+    <Date>2024-02-02 00:00:00</Date>
+    <Revenue>1020308.09</Revenue>
+    <Sales>89406.96</Sales>
+    <Stock_Price>6182.23</Stock_Price>
+  </row>
+  <row>
+    <index>398</index>
+    <Date>2024-02-03 00:00:00</Date>
+    <Revenue>998281.9</Revenue>
+    <Sales>90476.09</Sales>
+    <Stock_Price>5905.98</Stock_Price>
+  </row>
+  <row>
+    <index>399</index>
+    <Date>2024-02-04 00:00:00</Date>
+    <Revenue>1018567.24</Revenue>
+    <Sales>93368.35</Sales>
+    <Stock_Price>6567.57</Stock_Price>
+  </row>
+  <row>
+    <index>400</index>
+    <Date>2024-02-05 00:00:00</Date>
+    <Revenue>976083.59</Revenue>
+    <Sales>46320.53</Sales>
+    <Stock_Price>6555.44</Stock_Price>
+  </row>
+  <row>
+    <index>401</index>
+    <Date>2024-02-06 00:00:00</Date>
+    <Revenue>991009.37</Revenue>
+    <Sales>104151.23</Sales>
+    <Stock_Price>4776.03</Stock_Price>
+  </row>
+  <row>
+    <index>402</index>
+    <Date>2024-02-07 00:00:00</Date>
+    <Revenue>1000078.66</Revenue>
+    <Sales>64906.8</Sales>
+    <Stock_Price>6913.04</Stock_Price>
+  </row>
+  <row>
+    <index>403</index>
+    <Date>2024-02-08 00:00:00</Date>
+    <Revenue>1000704.71</Revenue>
+    <Sales>69166.29</Sales>
+    <Stock_Price>4836.26</Stock_Price>
+  </row>
+  <row>
+    <index>404</index>
+    <Date>2024-02-09 00:00:00</Date>
+    <Revenue>993249.02</Revenue>
+    <Sales>169902.81</Sales>
+    <Stock_Price>6722.78</Stock_Price>
+  </row>
+  <row>
+    <index>405</index>
+    <Date>2024-02-10 00:00:00</Date>
+    <Revenue>1009342.75</Revenue>
+    <Sales>84303.56</Sales>
+    <Stock_Price>6788.69</Stock_Price>
+  </row>
+  <row>
+    <index>406</index>
+    <Date>2024-02-11 00:00:00</Date>
+    <Revenue>983985.69</Revenue>
+    <Sales>68577.56</Sales>
+    <Stock_Price>5236.32</Stock_Price>
+  </row>
+  <row>
+    <index>407</index>
+    <Date>2024-02-12 00:00:00</Date>
+    <Revenue>997864.31</Revenue>
+    <Sales>39736.64</Sales>
+    <Stock_Price>5712.43</Stock_Price>
+  </row>
+  <row>
+    <index>408</index>
+    <Date>2024-02-13 00:00:00</Date>
+    <Revenue>1001804.43</Revenue>
+    <Sales>116838.34</Sales>
+    <Stock_Price>5226.01</Stock_Price>
+  </row>
+  <row>
+    <index>409</index>
+    <Date>2024-02-14 00:00:00</Date>
+    <Revenue>1007716.58</Revenue>
+    <Sales>51433.99</Sales>
+    <Stock_Price>5849.56</Stock_Price>
+  </row>
+  <row>
+    <index>410</index>
+    <Date>2024-02-15 00:00:00</Date>
+    <Revenue>1010674.22</Revenue>
+    <Sales>56987.41</Sales>
+    <Stock_Price>5784.38</Stock_Price>
+  </row>
+  <row>
+    <index>411</index>
+    <Date>2024-02-16 00:00:00</Date>
+    <Revenue>983130.37</Revenue>
+    <Sales>69717.85</Sales>
+    <Stock_Price>6545.76</Stock_Price>
+  </row>
+  <row>
+    <index>412</index>
+    <Date>2024-02-17 00:00:00</Date>
+    <Revenue>976988.29</Revenue>
+    <Sales>117776.13</Sales>
+    <Stock_Price>6917.22</Stock_Price>
+  </row>
+  <row>
+    <index>413</index>
+    <Date>2024-02-18 00:00:00</Date>
+    <Revenue>1019165.15</Revenue>
+    <Sales>97109.0</Sales>
+    <Stock_Price>6976.98</Stock_Price>
+  </row>
+  <row>
+    <index>414</index>
+    <Date>2024-02-19 00:00:00</Date>
+    <Revenue>1004984.71</Revenue>
+    <Sales>73443.09</Sales>
+    <Stock_Price>5606.48</Stock_Price>
+  </row>
+  <row>
+    <index>415</index>
+    <Date>2024-02-20 00:00:00</Date>
+    <Revenue>988772.7</Revenue>
+    <Sales>84466.05</Sales>
+    <Stock_Price>5853.54</Stock_Price>
+  </row>
+  <row>
+    <index>416</index>
+    <Date>2024-02-21 00:00:00</Date>
+    <Revenue>1023267.28</Revenue>
+    <Sales>64312.01</Sales>
+    <Stock_Price>4821.59</Stock_Price>
+  </row>
+  <row>
+    <index>417</index>
+    <Date>2024-02-22 00:00:00</Date>
+    <Revenue>1001735.12</Revenue>
+    <Sales>80299.08</Sales>
+    <Stock_Price>5435.89</Stock_Price>
+  </row>
+  <row>
+    <index>418</index>
+    <Date>2024-02-23 00:00:00</Date>
+    <Revenue>1017689.46</Revenue>
+    <Sales>78717.31</Sales>
+    <Stock_Price>6675.4</Stock_Price>
+  </row>
+  <row>
+    <index>419</index>
+    <Date>2024-02-24 00:00:00</Date>
+    <Revenue>1001012.78</Revenue>
+    <Sales>102975.7</Sales>
+    <Stock_Price>7130.91</Stock_Price>
+  </row>
+  <row>
+    <index>420</index>
+    <Date>2024-02-25 00:00:00</Date>
+    <Revenue>1030911.22</Revenue>
+    <Sales>102926.54</Sales>
+    <Stock_Price>5135.96</Stock_Price>
+  </row>
+  <row>
+    <index>421</index>
+    <Date>2024-02-26 00:00:00</Date>
+    <Revenue>1026330.11</Revenue>
+    <Sales>89304.8</Sales>
+    <Stock_Price>5585.28</Stock_Price>
+  </row>
+  <row>
+    <index>422</index>
+    <Date>2024-02-27 00:00:00</Date>
+    <Revenue>996265.54</Revenue>
+    <Sales>69072.58</Sales>
+    <Stock_Price>5981.52</Stock_Price>
+  </row>
+  <row>
+    <index>423</index>
+    <Date>2024-02-28 00:00:00</Date>
+    <Revenue>1014573.56</Revenue>
+    <Sales>96198.02</Sales>
+    <Stock_Price>6196.11</Stock_Price>
+  </row>
+  <row>
+    <index>424</index>
+    <Date>2024-02-29 00:00:00</Date>
+    <Revenue>1009680.64</Revenue>
+    <Sales>74908.81</Sales>
+    <Stock_Price>5433.28</Stock_Price>
+  </row>
+  <row>
+    <index>425</index>
+    <Date>2024-03-01 00:00:00</Date>
+    <Revenue>1020529.47</Revenue>
+    <Sales>55661.45</Sales>
+    <Stock_Price>6296.84</Stock_Price>
+  </row>
+  <row>
+    <index>426</index>
+    <Date>2024-03-02 00:00:00</Date>
+    <Revenue>985526.15</Revenue>
+    <Sales>68229.41</Sales>
+    <Stock_Price>5668.31</Stock_Price>
+  </row>
+  <row>
+    <index>427</index>
+    <Date>2024-03-03 00:00:00</Date>
+    <Revenue>1010290.77</Revenue>
+    <Sales>78982.01</Sales>
+    <Stock_Price>5989.88</Stock_Price>
+  </row>
+  <row>
+    <index>428</index>
+    <Date>2024-03-04 00:00:00</Date>
+    <Revenue>1015876.37</Revenue>
+    <Sales>101182.6</Sales>
+    <Stock_Price>6382.4</Stock_Price>
+  </row>
+  <row>
+    <index>429</index>
+    <Date>2024-03-05 00:00:00</Date>
+    <Revenue>973618.91</Revenue>
+    <Sales>72879.22</Sales>
+    <Stock_Price>6004.5</Stock_Price>
+  </row>
+  <row>
+    <index>430</index>
+    <Date>2024-03-06 00:00:00</Date>
+    <Revenue>982251.12</Revenue>
+    <Sales>53576.07</Sales>
+    <Stock_Price>5694.53</Stock_Price>
+  </row>
+  <row>
+    <index>431</index>
+    <Date>2024-03-07 00:00:00</Date>
+    <Revenue>969411.52</Revenue>
+    <Sales>78326.39</Sales>
+    <Stock_Price>5923.27</Stock_Price>
+  </row>
+  <row>
+    <index>432</index>
+    <Date>2024-03-08 00:00:00</Date>
+    <Revenue>995958.9</Revenue>
+    <Sales>79670.46</Sales>
+    <Stock_Price>5938.15</Stock_Price>
+  </row>
+  <row>
+    <index>433</index>
+    <Date>2024-03-09 00:00:00</Date>
+    <Revenue>1010763.13</Revenue>
+    <Sales>81419.38</Sales>
+    <Stock_Price>5740.99</Stock_Price>
+  </row>
+  <row>
+    <index>434</index>
+    <Date>2024-03-10 00:00:00</Date>
+    <Revenue>1022535.36</Revenue>
+    <Sales>101476.12</Sales>
+    <Stock_Price>5818.84</Stock_Price>
+  </row>
+  <row>
+    <index>435</index>
+    <Date>2024-03-11 00:00:00</Date>
+    <Revenue>1001111.42</Revenue>
+    <Sales>104536.79</Sales>
+    <Stock_Price>7119.05</Stock_Price>
+  </row>
+  <row>
+    <index>436</index>
+    <Date>2024-03-12 00:00:00</Date>
+    <Revenue>1024429.23</Revenue>
+    <Sales>64431.25</Sales>
+    <Stock_Price>6392.64</Stock_Price>
+  </row>
+  <row>
+    <index>437</index>
+    <Date>2024-03-13 00:00:00</Date>
+    <Revenue>979298.48</Revenue>
+    <Sales>64008.7</Sales>
+    <Stock_Price>5793.16</Stock_Price>
+  </row>
+  <row>
+    <index>438</index>
+    <Date>2024-03-14 00:00:00</Date>
+    <Revenue>974449.26</Revenue>
+    <Sales>56362.41</Sales>
+    <Stock_Price>6487.87</Stock_Price>
+  </row>
+  <row>
+    <index>439</index>
+    <Date>2024-03-15 00:00:00</Date>
+    <Revenue>999166.78</Revenue>
+    <Sales>94964.84</Sales>
+    <Stock_Price>5766.33</Stock_Price>
+  </row>
+  <row>
+    <index>440</index>
+    <Date>2024-03-16 00:00:00</Date>
+    <Revenue>1005760.98</Revenue>
+    <Sales>118926.79</Sales>
+    <Stock_Price>6821.19</Stock_Price>
+  </row>
+  <row>
+    <index>441</index>
+    <Date>2024-03-17 00:00:00</Date>
+    <Revenue>999509.58</Revenue>
+    <Sales>70058.98</Sales>
+    <Stock_Price>6258.75</Stock_Price>
+  </row>
+  <row>
+    <index>442</index>
+    <Date>2024-03-18 00:00:00</Date>
+    <Revenue>968988.37</Revenue>
+    <Sales>71624.19</Sales>
+    <Stock_Price>5924.89</Stock_Price>
+  </row>
+  <row>
+    <index>443</index>
+    <Date>2024-03-19 00:00:00</Date>
+    <Revenue>998663.2</Revenue>
+    <Sales>119569.38</Sales>
+    <Stock_Price>6313.4</Stock_Price>
+  </row>
+  <row>
+    <index>444</index>
+    <Date>2024-03-20 00:00:00</Date>
+    <Revenue>980432.96</Revenue>
+    <Sales>89615.6</Sales>
+    <Stock_Price>4900.39</Stock_Price>
+  </row>
+  <row>
+    <index>445</index>
+    <Date>2024-03-21 00:00:00</Date>
+    <Revenue>1010045.09</Revenue>
+    <Sales>87771.14</Sales>
+    <Stock_Price>5211.26</Stock_Price>
+  </row>
+  <row>
+    <index>446</index>
+    <Date>2024-03-22 00:00:00</Date>
+    <Revenue>1005498.97</Revenue>
+    <Sales>53870.72</Sales>
+    <Stock_Price>5164.25</Stock_Price>
+  </row>
+  <row>
+    <index>447</index>
+    <Date>2024-03-23 00:00:00</Date>
+    <Revenue>985901.8</Revenue>
+    <Sales>94394.28</Sales>
+    <Stock_Price>6100.06</Stock_Price>
+  </row>
+  <row>
+    <index>448</index>
+    <Date>2024-03-24 00:00:00</Date>
+    <Revenue>992292.0</Revenue>
+    <Sales>58271.97</Sales>
+    <Stock_Price>7212.76</Stock_Price>
+  </row>
+  <row>
+    <index>449</index>
+    <Date>2024-03-25 00:00:00</Date>
+    <Revenue>984111.8</Revenue>
+    <Sales>54798.13</Sales>
+    <Stock_Price>7561.91</Stock_Price>
+  </row>
+  <row>
+    <index>450</index>
+    <Date>2024-03-26 00:00:00</Date>
+    <Revenue>999059.81</Revenue>
+    <Sales>69396.09</Sales>
+    <Stock_Price>6446.64</Stock_Price>
+  </row>
+  <row>
+    <index>451</index>
+    <Date>2024-03-27 00:00:00</Date>
+    <Revenue>1014327.13</Revenue>
+    <Sales>64594.18</Sales>
+    <Stock_Price>6350.59</Stock_Price>
+  </row>
+  <row>
+    <index>452</index>
+    <Date>2024-03-28 00:00:00</Date>
+    <Revenue>985214.11</Revenue>
+    <Sales>72051.57</Sales>
+    <Stock_Price>4739.26</Stock_Price>
+  </row>
+  <row>
+    <index>453</index>
+    <Date>2024-03-29 00:00:00</Date>
+    <Revenue>1007560.7</Revenue>
+    <Sales>49977.23</Sales>
+    <Stock_Price>5620.13</Stock_Price>
+  </row>
+  <row>
+    <index>454</index>
+    <Date>2024-03-30 00:00:00</Date>
+    <Revenue>992046.14</Revenue>
+    <Sales>102668.66</Sales>
+    <Stock_Price>5448.55</Stock_Price>
+  </row>
+  <row>
+    <index>455</index>
+    <Date>2024-03-31 00:00:00</Date>
+    <Revenue>988106.91</Revenue>
+    <Sales>108003.97</Sales>
+    <Stock_Price>5565.41</Stock_Price>
+  </row>
+  <row>
+    <index>456</index>
+    <Date>2024-04-01 00:00:00</Date>
+    <Revenue>998394.54</Revenue>
+    <Sales>42933.8</Sales>
+    <Stock_Price>5882.3</Stock_Price>
+  </row>
+  <row>
+    <index>457</index>
+    <Date>2024-04-02 00:00:00</Date>
+    <Revenue>984471.37</Revenue>
+    <Sales>103275.42</Sales>
+    <Stock_Price>5669.54</Stock_Price>
+  </row>
+  <row>
+    <index>458</index>
+    <Date>2024-04-03 00:00:00</Date>
+    <Revenue>991695.26</Revenue>
+    <Sales>60382.75</Sales>
+    <Stock_Price>4614.49</Stock_Price>
+  </row>
+  <row>
+    <index>459</index>
+    <Date>2024-04-04 00:00:00</Date>
+    <Revenue>982031.83</Revenue>
+    <Sales>99579.34</Sales>
+    <Stock_Price>6523.54</Stock_Price>
+  </row>
+  <row>
+    <index>460</index>
+    <Date>2024-04-05 00:00:00</Date>
+    <Revenue>1029470.88</Revenue>
+    <Sales>75439.28</Sales>
+    <Stock_Price>5249.08</Stock_Price>
+  </row>
+  <row>
+    <index>461</index>
+    <Date>2024-04-06 00:00:00</Date>
+    <Revenue>1000528.95</Revenue>
+    <Sales>77671.99</Sales>
+    <Stock_Price>6167.47</Stock_Price>
+  </row>
+  <row>
+    <index>462</index>
+    <Date>2024-04-07 00:00:00</Date>
+    <Revenue>989504.12</Revenue>
+    <Sales>72844.92</Sales>
+    <Stock_Price>7451.86</Stock_Price>
+  </row>
+  <row>
+    <index>463</index>
+    <Date>2024-04-08 00:00:00</Date>
+    <Revenue>1003209.7</Revenue>
+    <Sales>110774.97</Sales>
+    <Stock_Price>5356.43</Stock_Price>
+  </row>
+  <row>
+    <index>464</index>
+    <Date>2024-04-09 00:00:00</Date>
+    <Revenue>998315.08</Revenue>
+    <Sales>53089.84</Sales>
+    <Stock_Price>4228.8</Stock_Price>
+  </row>
+  <row>
+    <index>465</index>
+    <Date>2024-04-10 00:00:00</Date>
+    <Revenue>996685.46</Revenue>
+    <Sales>92408.06</Sales>
+    <Stock_Price>5799.8</Stock_Price>
+  </row>
+  <row>
+    <index>466</index>
+    <Date>2024-04-11 00:00:00</Date>
+    <Revenue>1009212.5</Revenue>
+    <Sales>107153.36</Sales>
+    <Stock_Price>6770.67</Stock_Price>
+  </row>
+  <row>
+    <index>467</index>
+    <Date>2024-04-12 00:00:00</Date>
+    <Revenue>1011362.62</Revenue>
+    <Sales>95465.42</Sales>
+    <Stock_Price>7370.84</Stock_Price>
+  </row>
+  <row>
+    <index>468</index>
+    <Date>2024-04-13 00:00:00</Date>
+    <Revenue>992042.48</Revenue>
+    <Sales>154666.58</Sales>
+    <Stock_Price>5139.32</Stock_Price>
+  </row>
+  <row>
+    <index>469</index>
+    <Date>2024-04-14 00:00:00</Date>
+    <Revenue>991362.73</Revenue>
+    <Sales>65705.2</Sales>
+    <Stock_Price>6347.69</Stock_Price>
+  </row>
+  <row>
+    <index>470</index>
+    <Date>2024-04-15 00:00:00</Date>
+    <Revenue>995874.22</Revenue>
+    <Sales>102622.12</Sales>
+    <Stock_Price>5674.28</Stock_Price>
+  </row>
+  <row>
+    <index>471</index>
+    <Date>2024-04-16 00:00:00</Date>
+    <Revenue>965471.18</Revenue>
+    <Sales>74592.12</Sales>
+    <Stock_Price>5925.84</Stock_Price>
+  </row>
+  <row>
+    <index>472</index>
+    <Date>2024-04-17 00:00:00</Date>
+    <Revenue>977272.13</Revenue>
+    <Sales>111484.31</Sales>
+    <Stock_Price>7851.04</Stock_Price>
+  </row>
+  <row>
+    <index>473</index>
+    <Date>2024-04-18 00:00:00</Date>
+    <Revenue>1020503.11</Revenue>
+    <Sales>76826.94</Sales>
+    <Stock_Price>4947.92</Stock_Price>
+  </row>
+  <row>
+    <index>474</index>
+    <Date>2024-04-19 00:00:00</Date>
+    <Revenue>1024674.52</Revenue>
+    <Sales>68545.61</Sales>
+    <Stock_Price>6177.62</Stock_Price>
+  </row>
+  <row>
+    <index>475</index>
+    <Date>2024-04-20 00:00:00</Date>
+    <Revenue>996264.46</Revenue>
+    <Sales>113941.34</Sales>
+    <Stock_Price>6327.39</Stock_Price>
+  </row>
+  <row>
+    <index>476</index>
+    <Date>2024-04-21 00:00:00</Date>
+    <Revenue>1008648.35</Revenue>
+    <Sales>66446.26</Sales>
+    <Stock_Price>6760.05</Stock_Price>
+  </row>
+  <row>
+    <index>477</index>
+    <Date>2024-04-22 00:00:00</Date>
+    <Revenue>1004668.75</Revenue>
+    <Sales>50402.68</Sales>
+    <Stock_Price>6068.59</Stock_Price>
+  </row>
+  <row>
+    <index>478</index>
+    <Date>2024-04-23 00:00:00</Date>
+    <Revenue>1046183.21</Revenue>
+    <Sales>65944.14</Sales>
+    <Stock_Price>6215.64</Stock_Price>
+  </row>
+  <row>
+    <index>479</index>
+    <Date>2024-04-24 00:00:00</Date>
+    <Revenue>1016793.62</Revenue>
+    <Sales>92718.86</Sales>
+    <Stock_Price>5725.85</Stock_Price>
+  </row>
+  <row>
+    <index>480</index>
+    <Date>2024-04-25 00:00:00</Date>
+    <Revenue>998081.24</Revenue>
+    <Sales>116918.1</Sales>
+    <Stock_Price>6188.39</Stock_Price>
+  </row>
+  <row>
+    <index>481</index>
+    <Date>2024-04-26 00:00:00</Date>
+    <Revenue>985666.89</Revenue>
+    <Sales>79614.87</Sales>
+    <Stock_Price>5759.77</Stock_Price>
+  </row>
+  <row>
+    <index>482</index>
+    <Date>2024-04-27 00:00:00</Date>
+    <Revenue>975903.31</Revenue>
+    <Sales>114356.55</Sales>
+    <Stock_Price>6435.1</Stock_Price>
+  </row>
+  <row>
+    <index>483</index>
+    <Date>2024-04-28 00:00:00</Date>
+    <Revenue>1003051.95</Revenue>
+    <Sales>51234.32</Sales>
+    <Stock_Price>5741.27</Stock_Price>
+  </row>
+  <row>
+    <index>484</index>
+    <Date>2024-04-29 00:00:00</Date>
+    <Revenue>988654.74</Revenue>
+    <Sales>67416.04</Sales>
+    <Stock_Price>6263.97</Stock_Price>
+  </row>
+  <row>
+    <index>485</index>
+    <Date>2024-04-30 00:00:00</Date>
+    <Revenue>978666.19</Revenue>
+    <Sales>70618.31</Sales>
+    <Stock_Price>5979.52</Stock_Price>
+  </row>
+  <row>
+    <index>486</index>
+    <Date>2024-05-01 00:00:00</Date>
+    <Revenue>990301.41</Revenue>
+    <Sales>74402.85</Sales>
+    <Stock_Price>6788.24</Stock_Price>
+  </row>
+  <row>
+    <index>487</index>
+    <Date>2024-05-02 00:00:00</Date>
+    <Revenue>983776.78</Revenue>
+    <Sales>78971.76</Sales>
+    <Stock_Price>5964.02</Stock_Price>
+  </row>
+  <row>
+    <index>488</index>
+    <Date>2024-05-03 00:00:00</Date>
+    <Revenue>1025307.12</Revenue>
+    <Sales>94739.91</Sales>
+    <Stock_Price>4758.88</Stock_Price>
+  </row>
+  <row>
+    <index>489</index>
+    <Date>2024-05-04 00:00:00</Date>
+    <Revenue>1013224.6</Revenue>
+    <Sales>67384.84</Sales>
+    <Stock_Price>6883.35</Stock_Price>
+  </row>
+  <row>
+    <index>490</index>
+    <Date>2024-05-05 00:00:00</Date>
+    <Revenue>999880.41</Revenue>
+    <Sales>80284.03</Sales>
+    <Stock_Price>5365.99</Stock_Price>
+  </row>
+  <row>
+    <index>491</index>
+    <Date>2024-05-06 00:00:00</Date>
+    <Revenue>1022199.16</Revenue>
+    <Sales>75968.99</Sales>
+    <Stock_Price>5542.36</Stock_Price>
+  </row>
+  <row>
+    <index>492</index>
+    <Date>2024-05-07 00:00:00</Date>
+    <Revenue>1001160.52</Revenue>
+    <Sales>58328.75</Sales>
+    <Stock_Price>5583.04</Stock_Price>
+  </row>
+  <row>
+    <index>493</index>
+    <Date>2024-05-08 00:00:00</Date>
+    <Revenue>987080.74</Revenue>
+    <Sales>74422.78</Sales>
+    <Stock_Price>6962.11</Stock_Price>
+  </row>
+  <row>
+    <index>494</index>
+    <Date>2024-05-09 00:00:00</Date>
+    <Revenue>1022846.86</Revenue>
+    <Sales>73756.14</Sales>
+    <Stock_Price>4505.03</Stock_Price>
+  </row>
+  <row>
+    <index>495</index>
+    <Date>2024-05-10 00:00:00</Date>
+    <Revenue>1008083.65</Revenue>
+    <Sales>73283.68</Sales>
+    <Stock_Price>8196.42</Stock_Price>
+  </row>
+  <row>
+    <index>496</index>
+    <Date>2024-05-11 00:00:00</Date>
+    <Revenue>984441.31</Revenue>
+    <Sales>77741.55</Sales>
+    <Stock_Price>6739.24</Stock_Price>
+  </row>
+  <row>
+    <index>497</index>
+    <Date>2024-05-12 00:00:00</Date>
+    <Revenue>997144.92</Revenue>
+    <Sales>78772.51</Sales>
+    <Stock_Price>6156.27</Stock_Price>
+  </row>
+  <row>
+    <index>498</index>
+    <Date>2024-05-13 00:00:00</Date>
+    <Revenue>986865.73</Revenue>
+    <Sales>67638.24</Sales>
+    <Stock_Price>5961.57</Stock_Price>
+  </row>
+  <row>
+    <index>499</index>
+    <Date>2024-05-14 00:00:00</Date>
+    <Revenue>979258.0</Revenue>
+    <Sales>112806.78</Sales>
+    <Stock_Price>6199.89</Stock_Price>
+  </row>
+  <row>
+    <index>500</index>
+    <Date>2024-05-15 00:00:00</Date>
+    <Revenue>1013892.66</Revenue>
+    <Sales>54218.27</Sales>
+    <Stock_Price>6364.79</Stock_Price>
+  </row>
+  <row>
+    <index>501</index>
+    <Date>2024-05-16 00:00:00</Date>
+    <Revenue>1028641.25</Revenue>
+    <Sales>62027.08</Sales>
+    <Stock_Price>6451.65</Stock_Price>
+  </row>
+  <row>
+    <index>502</index>
+    <Date>2024-05-17 00:00:00</Date>
+    <Revenue>979021.49</Revenue>
+    <Sales>177301.41</Sales>
+    <Stock_Price>6388.92</Stock_Price>
+  </row>
+  <row>
+    <index>503</index>
+    <Date>2024-05-18 00:00:00</Date>
+    <Revenue>1008444.54</Revenue>
+    <Sales>56399.75</Sales>
+    <Stock_Price>6062.71</Stock_Price>
+  </row>
+  <row>
+    <index>504</index>
+    <Date>2024-05-19 00:00:00</Date>
+    <Revenue>990240.36</Revenue>
+    <Sales>51302.3</Sales>
+    <Stock_Price>5861.86</Stock_Price>
+  </row>
+  <row>
+    <index>505</index>
+    <Date>2024-05-20 00:00:00</Date>
+    <Revenue>992693.12</Revenue>
+    <Sales>95986.26</Sales>
+    <Stock_Price>5894.11</Stock_Price>
+  </row>
+  <row>
+    <index>506</index>
+    <Date>2024-05-21 00:00:00</Date>
+    <Revenue>991114.09</Revenue>
+    <Sales>41294.37</Sales>
+    <Stock_Price>5863.56</Stock_Price>
+  </row>
+  <row>
+    <index>507</index>
+    <Date>2024-05-22 00:00:00</Date>
+    <Revenue>987040.14</Revenue>
+    <Sales>71756.6</Sales>
+    <Stock_Price>6793.64</Stock_Price>
+  </row>
+  <row>
+    <index>508</index>
+    <Date>2024-05-23 00:00:00</Date>
+    <Revenue>1000727.82</Revenue>
+    <Sales>146585.6</Sales>
+    <Stock_Price>6415.49</Stock_Price>
+  </row>
+  <row>
+    <index>509</index>
+    <Date>2024-05-24 00:00:00</Date>
+    <Revenue>987535.75</Revenue>
+    <Sales>48442.68</Sales>
+    <Stock_Price>3941.73</Stock_Price>
+  </row>
+  <row>
+    <index>510</index>
+    <Date>2024-05-25 00:00:00</Date>
+    <Revenue>1004056.85</Revenue>
+    <Sales>42490.17</Sales>
+    <Stock_Price>6459.13</Stock_Price>
+  </row>
+  <row>
+    <index>511</index>
+    <Date>2024-05-26 00:00:00</Date>
+    <Revenue>999246.43</Revenue>
+    <Sales>49112.21</Sales>
+    <Stock_Price>6136.32</Stock_Price>
+  </row>
+  <row>
+    <index>512</index>
+    <Date>2024-05-27 00:00:00</Date>
+    <Revenue>996415.78</Revenue>
+    <Sales>100823.34</Sales>
+    <Stock_Price>5986.9</Stock_Price>
+  </row>
+  <row>
+    <index>513</index>
+    <Date>2024-05-28 00:00:00</Date>
+    <Revenue>986386.55</Revenue>
+    <Sales>107909.73</Sales>
+    <Stock_Price>5728.04</Stock_Price>
+  </row>
+  <row>
+    <index>514</index>
+    <Date>2024-05-29 00:00:00</Date>
+    <Revenue>991348.43</Revenue>
+    <Sales>66028.43</Sales>
+    <Stock_Price>6786.88</Stock_Price>
+  </row>
+  <row>
+    <index>515</index>
+    <Date>2024-05-30 00:00:00</Date>
+    <Revenue>1011330.87</Revenue>
+    <Sales>94521.35</Sales>
+    <Stock_Price>6663.27</Stock_Price>
+  </row>
+  <row>
+    <index>516</index>
+    <Date>2024-05-31 00:00:00</Date>
+    <Revenue>1007513.76</Revenue>
+    <Sales>116855.56</Sales>
+    <Stock_Price>5458.99</Stock_Price>
+  </row>
+  <row>
+    <index>517</index>
+    <Date>2024-06-01 00:00:00</Date>
+    <Revenue>985336.67</Revenue>
+    <Sales>131639.35</Sales>
+    <Stock_Price>6284.94</Stock_Price>
+  </row>
+  <row>
+    <index>518</index>
+    <Date>2024-06-02 00:00:00</Date>
+    <Revenue>1001489.98</Revenue>
+    <Sales>71518.88</Sales>
+    <Stock_Price>5319.84</Stock_Price>
+  </row>
+  <row>
+    <index>519</index>
+    <Date>2024-06-03 00:00:00</Date>
+    <Revenue>1011270.81</Revenue>
+    <Sales>38606.5</Sales>
+    <Stock_Price>5034.27</Stock_Price>
+  </row>
+  <row>
+    <index>520</index>
+    <Date>2024-06-04 00:00:00</Date>
+    <Revenue>974958.92</Revenue>
+    <Sales>60195.55</Sales>
+    <Stock_Price>5561.3</Stock_Price>
+  </row>
+  <row>
+    <index>521</index>
+    <Date>2024-06-05 00:00:00</Date>
+    <Revenue>1008150.4</Revenue>
+    <Sales>67749.75</Sales>
+    <Stock_Price>6603.68</Stock_Price>
+  </row>
+  <row>
+    <index>522</index>
+    <Date>2024-06-06 00:00:00</Date>
+    <Revenue>990060.64</Revenue>
+    <Sales>71248.97</Sales>
+    <Stock_Price>6667.19</Stock_Price>
+  </row>
+  <row>
+    <index>523</index>
+    <Date>2024-06-07 00:00:00</Date>
+    <Revenue>1008558.98</Revenue>
+    <Sales>72784.59</Sales>
+    <Stock_Price>6359.16</Stock_Price>
+  </row>
+  <row>
+    <index>524</index>
+    <Date>2024-06-08 00:00:00</Date>
+    <Revenue>988551.11</Revenue>
+    <Sales>107719.48</Sales>
+    <Stock_Price>6507.57</Stock_Price>
+  </row>
+  <row>
+    <index>525</index>
+    <Date>2024-06-09 00:00:00</Date>
+    <Revenue>972926.77</Revenue>
+    <Sales>112864.79</Sales>
+    <Stock_Price>6361.32</Stock_Price>
+  </row>
+  <row>
+    <index>526</index>
+    <Date>2024-06-10 00:00:00</Date>
+    <Revenue>975586.86</Revenue>
+    <Sales>73138.87</Sales>
+    <Stock_Price>5550.96</Stock_Price>
+  </row>
+  <row>
+    <index>527</index>
+    <Date>2024-06-11 00:00:00</Date>
+    <Revenue>1000721.27</Revenue>
+    <Sales>107061.94</Sales>
+    <Stock_Price>6302.35</Stock_Price>
+  </row>
+  <row>
+    <index>528</index>
+    <Date>2024-06-12 00:00:00</Date>
+    <Revenue>1003895.84</Revenue>
+    <Sales>85726.37</Sales>
+    <Stock_Price>6560.29</Stock_Price>
+  </row>
+  <row>
+    <index>529</index>
+    <Date>2024-06-13 00:00:00</Date>
+    <Revenue>986435.25</Revenue>
+    <Sales>78509.05</Sales>
+    <Stock_Price>6528.0</Stock_Price>
+  </row>
+  <row>
+    <index>530</index>
+    <Date>2024-06-14 00:00:00</Date>
+    <Revenue>1009578.89</Revenue>
+    <Sales>101071.21</Sales>
+    <Stock_Price>6832.24</Stock_Price>
+  </row>
+  <row>
+    <index>531</index>
+    <Date>2024-06-15 00:00:00</Date>
+    <Revenue>975077.2</Revenue>
+    <Sales>78691.7</Sales>
+    <Stock_Price>6495.81</Stock_Price>
+  </row>
+  <row>
+    <index>532</index>
+    <Date>2024-06-16 00:00:00</Date>
+    <Revenue>999008.8</Revenue>
+    <Sales>142765.78</Sales>
+    <Stock_Price>6246.01</Stock_Price>
+  </row>
+  <row>
+    <index>533</index>
+    <Date>2024-06-17 00:00:00</Date>
+    <Revenue>981834.76</Revenue>
+    <Sales>50015.79</Sales>
+    <Stock_Price>6749.11</Stock_Price>
+  </row>
+  <row>
+    <index>534</index>
+    <Date>2024-06-18 00:00:00</Date>
+    <Revenue>990222.46</Revenue>
+    <Sales>65977.3</Sales>
+    <Stock_Price>5981.44</Stock_Price>
+  </row>
+  <row>
+    <index>535</index>
+    <Date>2024-06-19 00:00:00</Date>
+    <Revenue>1000710.98</Revenue>
+    <Sales>74136.38</Sales>
+    <Stock_Price>5382.69</Stock_Price>
+  </row>
+  <row>
+    <index>536</index>
+    <Date>2024-06-20 00:00:00</Date>
+    <Revenue>987093.8</Revenue>
+    <Sales>87855.89</Sales>
+    <Stock_Price>5885.85</Stock_Price>
+  </row>
+  <row>
+    <index>537</index>
+    <Date>2024-06-21 00:00:00</Date>
+    <Revenue>994231.67</Revenue>
+    <Sales>112646.0</Sales>
+    <Stock_Price>5478.57</Stock_Price>
+  </row>
+  <row>
+    <index>538</index>
+    <Date>2024-06-22 00:00:00</Date>
+    <Revenue>1015094.39</Revenue>
+    <Sales>76442.78</Sales>
+    <Stock_Price>5527.38</Stock_Price>
+  </row>
+  <row>
+    <index>539</index>
+    <Date>2024-06-23 00:00:00</Date>
+    <Revenue>991346.62</Revenue>
+    <Sales>50259.18</Sales>
+    <Stock_Price>5898.84</Stock_Price>
+  </row>
+  <row>
+    <index>540</index>
+    <Date>2024-06-24 00:00:00</Date>
+    <Revenue>1012535.38</Revenue>
+    <Sales>99148.25</Sales>
+    <Stock_Price>5445.31</Stock_Price>
+  </row>
+  <row>
+    <index>541</index>
+    <Date>2024-06-25 00:00:00</Date>
+    <Revenue>983054.4</Revenue>
+    <Sales>96577.88</Sales>
+    <Stock_Price>5784.43</Stock_Price>
+  </row>
+  <row>
+    <index>542</index>
+    <Date>2024-06-26 00:00:00</Date>
+    <Revenue>1007947.06</Revenue>
+    <Sales>43004.49</Sales>
+    <Stock_Price>4674.47</Stock_Price>
+  </row>
+  <row>
+    <index>543</index>
+    <Date>2024-06-27 00:00:00</Date>
+    <Revenue>1021623.53</Revenue>
+    <Sales>76916.53</Sales>
+    <Stock_Price>6149.31</Stock_Price>
+  </row>
+  <row>
+    <index>544</index>
+    <Date>2024-06-28 00:00:00</Date>
+    <Revenue>962925.33</Revenue>
+    <Sales>47790.15</Sales>
+    <Stock_Price>6000.84</Stock_Price>
+  </row>
+  <row>
+    <index>545</index>
+    <Date>2024-06-29 00:00:00</Date>
+    <Revenue>988046.57</Revenue>
+    <Sales>63083.97</Sales>
+    <Stock_Price>5428.04</Stock_Price>
+  </row>
+  <row>
+    <index>546</index>
+    <Date>2024-06-30 00:00:00</Date>
+    <Revenue>1008656.08</Revenue>
+    <Sales>58734.04</Sales>
+    <Stock_Price>6461.47</Stock_Price>
+  </row>
+  <row>
+    <index>547</index>
+    <Date>2024-07-01 00:00:00</Date>
+    <Revenue>996954.32</Revenue>
+    <Sales>98164.19</Sales>
+    <Stock_Price>6656.3</Stock_Price>
+  </row>
+  <row>
+    <index>548</index>
+    <Date>2024-07-02 00:00:00</Date>
+    <Revenue>1005567.19</Revenue>
+    <Sales>79751.15</Sales>
+    <Stock_Price>4874.71</Stock_Price>
+  </row>
+  <row>
+    <index>549</index>
+    <Date>2024-07-03 00:00:00</Date>
+    <Revenue>990940.22</Revenue>
+    <Sales>52362.19</Sales>
+    <Stock_Price>5466.09</Stock_Price>
+  </row>
+  <row>
+    <index>550</index>
+    <Date>2024-07-04 00:00:00</Date>
+    <Revenue>1001298.85</Revenue>
+    <Sales>100271.53</Sales>
+    <Stock_Price>5461.6</Stock_Price>
+  </row>
+  <row>
+    <index>551</index>
+    <Date>2024-07-05 00:00:00</Date>
+    <Revenue>997664.84</Revenue>
+    <Sales>50084.94</Sales>
+    <Stock_Price>5342.07</Stock_Price>
+  </row>
+  <row>
+    <index>552</index>
+    <Date>2024-07-06 00:00:00</Date>
+    <Revenue>1017516.73</Revenue>
+    <Sales>85020.82</Sales>
+    <Stock_Price>6580.63</Stock_Price>
+  </row>
+  <row>
+    <index>553</index>
+    <Date>2024-07-07 00:00:00</Date>
+    <Revenue>1003816.31</Revenue>
+    <Sales>60319.71</Sales>
+    <Stock_Price>5864.32</Stock_Price>
+  </row>
+  <row>
+    <index>554</index>
+    <Date>2024-07-08 00:00:00</Date>
+    <Revenue>1005064.04</Revenue>
+    <Sales>69003.62</Sales>
+    <Stock_Price>5814.84</Stock_Price>
+  </row>
+  <row>
+    <index>555</index>
+    <Date>2024-07-09 00:00:00</Date>
+    <Revenue>993821.85</Revenue>
+    <Sales>89581.0</Sales>
+    <Stock_Price>4597.3</Stock_Price>
+  </row>
+  <row>
+    <index>556</index>
+    <Date>2024-07-10 00:00:00</Date>
+    <Revenue>992685.91</Revenue>
+    <Sales>90043.86</Sales>
+    <Stock_Price>6444.79</Stock_Price>
+  </row>
+  <row>
+    <index>557</index>
+    <Date>2024-07-11 00:00:00</Date>
+    <Revenue>993511.63</Revenue>
+    <Sales>115002.37</Sales>
+    <Stock_Price>5132.52</Stock_Price>
+  </row>
+  <row>
+    <index>558</index>
+    <Date>2024-07-12 00:00:00</Date>
+    <Revenue>1005916.78</Revenue>
+    <Sales>75127.45</Sales>
+    <Stock_Price>6041.95</Stock_Price>
+  </row>
+  <row>
+    <index>559</index>
+    <Date>2024-07-13 00:00:00</Date>
+    <Revenue>993685.23</Revenue>
+    <Sales>84419.41</Sales>
+    <Stock_Price>6194.16</Stock_Price>
+  </row>
+  <row>
+    <index>560</index>
+    <Date>2024-07-14 00:00:00</Date>
+    <Revenue>1004346.62</Revenue>
+    <Sales>67527.9</Sales>
+    <Stock_Price>6952.46</Stock_Price>
+  </row>
+  <row>
+    <index>561</index>
+    <Date>2024-07-15 00:00:00</Date>
+    <Revenue>1031131.01</Revenue>
+    <Sales>81325.45</Sales>
+    <Stock_Price>5083.83</Stock_Price>
+  </row>
+  <row>
+    <index>562</index>
+    <Date>2024-07-16 00:00:00</Date>
+    <Revenue>1013066.87</Revenue>
+    <Sales>87856.77</Sales>
+    <Stock_Price>3886.34</Stock_Price>
+  </row>
+  <row>
+    <index>563</index>
+    <Date>2024-07-17 00:00:00</Date>
+    <Revenue>995109.65</Revenue>
+    <Sales>74766.44</Sales>
+    <Stock_Price>6128.69</Stock_Price>
+  </row>
+  <row>
+    <index>564</index>
+    <Date>2024-07-18 00:00:00</Date>
+    <Revenue>1018018.21</Revenue>
+    <Sales>44823.7</Sales>
+    <Stock_Price>7260.36</Stock_Price>
+  </row>
+  <row>
+    <index>565</index>
+    <Date>2024-07-19 00:00:00</Date>
+    <Revenue>993878.87</Revenue>
+    <Sales>85055.44</Sales>
+    <Stock_Price>6867.26</Stock_Price>
+  </row>
+  <row>
+    <index>566</index>
+    <Date>2024-07-20 00:00:00</Date>
+    <Revenue>969428.13</Revenue>
+    <Sales>85904.01</Sales>
+    <Stock_Price>6146.76</Stock_Price>
+  </row>
+  <row>
+    <index>567</index>
+    <Date>2024-07-21 00:00:00</Date>
+    <Revenue>984878.71</Revenue>
+    <Sales>62790.89</Sales>
+    <Stock_Price>5655.85</Stock_Price>
+  </row>
+  <row>
+    <index>568</index>
+    <Date>2024-07-22 00:00:00</Date>
+    <Revenue>971938.12</Revenue>
+    <Sales>52381.11</Sales>
+    <Stock_Price>6564.99</Stock_Price>
+  </row>
+  <row>
+    <index>569</index>
+    <Date>2024-07-23 00:00:00</Date>
+    <Revenue>994727.3</Revenue>
+    <Sales>119896.13</Sales>
+    <Stock_Price>5318.52</Stock_Price>
+  </row>
+  <row>
+    <index>570</index>
+    <Date>2024-07-24 00:00:00</Date>
+    <Revenue>1000276.28</Revenue>
+    <Sales>89237.0</Sales>
+    <Stock_Price>6333.45</Stock_Price>
+  </row>
+  <row>
+    <index>571</index>
+    <Date>2024-07-25 00:00:00</Date>
+    <Revenue>1025146.56</Revenue>
+    <Sales>71890.04</Sales>
+    <Stock_Price>6353.83</Stock_Price>
+  </row>
+  <row>
+    <index>572</index>
+    <Date>2024-07-26 00:00:00</Date>
+    <Revenue>1004903.91</Revenue>
+    <Sales>54748.62</Sales>
+    <Stock_Price>6742.15</Stock_Price>
+  </row>
+  <row>
+    <index>573</index>
+    <Date>2024-07-27 00:00:00</Date>
+    <Revenue>996713.49</Revenue>
+    <Sales>60178.65</Sales>
+    <Stock_Price>7931.76</Stock_Price>
+  </row>
+  <row>
+    <index>574</index>
+    <Date>2024-07-28 00:00:00</Date>
+    <Revenue>1012441.08</Revenue>
+    <Sales>113822.38</Sales>
+    <Stock_Price>6274.69</Stock_Price>
+  </row>
+  <row>
+    <index>575</index>
+    <Date>2024-07-29 00:00:00</Date>
+    <Revenue>966832.97</Revenue>
+    <Sales>80251.11</Sales>
+    <Stock_Price>5643.73</Stock_Price>
+  </row>
+  <row>
+    <index>576</index>
+    <Date>2024-07-30 00:00:00</Date>
+    <Revenue>1003534.22</Revenue>
+    <Sales>65280.01</Sales>
+    <Stock_Price>5982.1</Stock_Price>
+  </row>
+  <row>
+    <index>577</index>
+    <Date>2024-07-31 00:00:00</Date>
+    <Revenue>1011562.98</Revenue>
+    <Sales>89726.74</Sales>
+    <Stock_Price>4761.65</Stock_Price>
+  </row>
+  <row>
+    <index>578</index>
+    <Date>2024-08-01 00:00:00</Date>
+    <Revenue>977821.21</Revenue>
+    <Sales>60312.69</Sales>
+    <Stock_Price>5513.7</Stock_Price>
+  </row>
+  <row>
+    <index>579</index>
+    <Date>2024-08-02 00:00:00</Date>
+    <Revenue>1017156.31</Revenue>
+    <Sales>120797.42</Sales>
+    <Stock_Price>5713.5</Stock_Price>
+  </row>
+  <row>
+    <index>580</index>
+    <Date>2024-08-03 00:00:00</Date>
+    <Revenue>1005077.45</Revenue>
+    <Sales>115549.87</Sales>
+    <Stock_Price>5633.14</Stock_Price>
+  </row>
+  <row>
+    <index>581</index>
+    <Date>2024-08-04 00:00:00</Date>
+    <Revenue>993770.68</Revenue>
+    <Sales>66946.23</Sales>
+    <Stock_Price>6106.65</Stock_Price>
+  </row>
+  <row>
+    <index>582</index>
+    <Date>2024-08-05 00:00:00</Date>
+    <Revenue>1009491.73</Revenue>
+    <Sales>63768.6</Sales>
+    <Stock_Price>5424.31</Stock_Price>
+  </row>
+  <row>
+    <index>583</index>
+    <Date>2024-08-06 00:00:00</Date>
+    <Revenue>1034060.39</Revenue>
+    <Sales>35107.76</Sales>
+    <Stock_Price>6784.72</Stock_Price>
+  </row>
+  <row>
+    <index>584</index>
+    <Date>2024-08-07 00:00:00</Date>
+    <Revenue>1002727.99</Revenue>
+    <Sales>49372.22</Sales>
+    <Stock_Price>6000.14</Stock_Price>
+  </row>
+  <row>
+    <index>585</index>
+    <Date>2024-08-08 00:00:00</Date>
+    <Revenue>1003723.31</Revenue>
+    <Sales>51522.63</Sales>
+    <Stock_Price>5993.49</Stock_Price>
+  </row>
+  <row>
+    <index>586</index>
+    <Date>2024-08-09 00:00:00</Date>
+    <Revenue>993109.59</Revenue>
+    <Sales>80191.63</Sales>
+    <Stock_Price>5770.47</Stock_Price>
+  </row>
+  <row>
+    <index>587</index>
+    <Date>2024-08-10 00:00:00</Date>
+    <Revenue>987252.33</Revenue>
+    <Sales>69824.99</Sales>
+    <Stock_Price>6108.63</Stock_Price>
+  </row>
+  <row>
+    <index>588</index>
+    <Date>2024-08-11 00:00:00</Date>
+    <Revenue>1012455.04</Revenue>
+    <Sales>51432.04</Sales>
+    <Stock_Price>6577.57</Stock_Price>
+  </row>
+  <row>
+    <index>589</index>
+    <Date>2024-08-12 00:00:00</Date>
+    <Revenue>987158.74</Revenue>
+    <Sales>70775.5</Sales>
+    <Stock_Price>5393.01</Stock_Price>
+  </row>
+  <row>
+    <index>590</index>
+    <Date>2024-08-13 00:00:00</Date>
+    <Revenue>1001073.49</Revenue>
+    <Sales>89609.67</Sales>
+    <Stock_Price>5539.32</Stock_Price>
+  </row>
+  <row>
+    <index>591</index>
+    <Date>2024-08-14 00:00:00</Date>
+    <Revenue>992835.14</Revenue>
+    <Sales>90216.64</Sales>
+    <Stock_Price>5787.39</Stock_Price>
+  </row>
+  <row>
+    <index>592</index>
+    <Date>2024-08-15 00:00:00</Date>
+    <Revenue>1007184.7</Revenue>
+    <Sales>43552.23</Sales>
+    <Stock_Price>5057.89</Stock_Price>
+  </row>
+  <row>
+    <index>593</index>
+    <Date>2024-08-16 00:00:00</Date>
+    <Revenue>1005004.93</Revenue>
+    <Sales>74097.59</Sales>
+    <Stock_Price>5426.52</Stock_Price>
+  </row>
+  <row>
+    <index>594</index>
+    <Date>2024-08-17 00:00:00</Date>
+    <Revenue>1015563.1</Revenue>
+    <Sales>50848.97</Sales>
+    <Stock_Price>5666.65</Stock_Price>
+  </row>
+  <row>
+    <index>595</index>
+    <Date>2024-08-18 00:00:00</Date>
+    <Revenue>992349.75</Revenue>
+    <Sales>100925.3</Sales>
+    <Stock_Price>6612.07</Stock_Price>
+  </row>
+  <row>
+    <index>596</index>
+    <Date>2024-08-19 00:00:00</Date>
+    <Revenue>995951.88</Revenue>
+    <Sales>97427.25</Sales>
+    <Stock_Price>6183.79</Stock_Price>
+  </row>
+  <row>
+    <index>597</index>
+    <Date>2024-08-20 00:00:00</Date>
+    <Revenue>985318.54</Revenue>
+    <Sales>58818.35</Sales>
+    <Stock_Price>6135.51</Stock_Price>
+  </row>
+  <row>
+    <index>598</index>
+    <Date>2024-08-21 00:00:00</Date>
+    <Revenue>993335.6</Revenue>
+    <Sales>61193.96</Sales>
+    <Stock_Price>6595.63</Stock_Price>
+  </row>
+  <row>
+    <index>599</index>
+    <Date>2024-08-22 00:00:00</Date>
+    <Revenue>1005659.51</Revenue>
+    <Sales>67052.91</Sales>
+    <Stock_Price>5903.84</Stock_Price>
+  </row>
+  <row>
+    <index>600</index>
+    <Date>2024-08-23 00:00:00</Date>
+    <Revenue>1011354.83</Revenue>
+    <Sales>39174.42</Sales>
+    <Stock_Price>6273.33</Stock_Price>
+  </row>
+  <row>
+    <index>601</index>
+    <Date>2024-08-24 00:00:00</Date>
+    <Revenue>986167.52</Revenue>
+    <Sales>85170.28</Sales>
+    <Stock_Price>5927.74</Stock_Price>
+  </row>
+  <row>
+    <index>602</index>
+    <Date>2024-08-25 00:00:00</Date>
+    <Revenue>1013044.09</Revenue>
+    <Sales>70952.36</Sales>
+    <Stock_Price>6185.75</Stock_Price>
+  </row>
+  <row>
+    <index>603</index>
+    <Date>2024-08-26 00:00:00</Date>
+    <Revenue>1020334.57</Revenue>
+    <Sales>103019.12</Sales>
+    <Stock_Price>5592.07</Stock_Price>
+  </row>
+  <row>
+    <index>604</index>
+    <Date>2024-08-27 00:00:00</Date>
+    <Revenue>1006201.52</Revenue>
+    <Sales>55386.69</Sales>
+    <Stock_Price>4292.83</Stock_Price>
+  </row>
+  <row>
+    <index>605</index>
+    <Date>2024-08-28 00:00:00</Date>
+    <Revenue>1028151.94</Revenue>
+    <Sales>63951.51</Sales>
+    <Stock_Price>5906.0</Stock_Price>
+  </row>
+  <row>
+    <index>606</index>
+    <Date>2024-08-29 00:00:00</Date>
+    <Revenue>988393.16</Revenue>
+    <Sales>49004.12</Sales>
+    <Stock_Price>6995.92</Stock_Price>
+  </row>
+  <row>
+    <index>607</index>
+    <Date>2024-08-30 00:00:00</Date>
+    <Revenue>981330.18</Revenue>
+    <Sales>56972.85</Sales>
+    <Stock_Price>6648.35</Stock_Price>
+  </row>
+  <row>
+    <index>608</index>
+    <Date>2024-08-31 00:00:00</Date>
+    <Revenue>973319.2</Revenue>
+    <Sales>54015.31</Sales>
+    <Stock_Price>6675.78</Stock_Price>
+  </row>
+  <row>
+    <index>609</index>
+    <Date>2024-09-01 00:00:00</Date>
+    <Revenue>1022440.66</Revenue>
+    <Sales>103819.54</Sales>
+    <Stock_Price>6865.29</Stock_Price>
+  </row>
+  <row>
+    <index>610</index>
+    <Date>2024-09-02 00:00:00</Date>
+    <Revenue>1009815.48</Revenue>
+    <Sales>62451.08</Sales>
+    <Stock_Price>6062.06</Stock_Price>
+  </row>
+  <row>
+    <index>611</index>
+    <Date>2024-09-03 00:00:00</Date>
+    <Revenue>999166.23</Revenue>
+    <Sales>79927.08</Sales>
+    <Stock_Price>6138.12</Stock_Price>
+  </row>
+  <row>
+    <index>612</index>
+    <Date>2024-09-04 00:00:00</Date>
+    <Revenue>1004199.53</Revenue>
+    <Sales>68692.02</Sales>
+    <Stock_Price>5567.64</Stock_Price>
+  </row>
+  <row>
+    <index>613</index>
+    <Date>2024-09-05 00:00:00</Date>
+    <Revenue>983117.66</Revenue>
+    <Sales>52616.12</Sales>
+    <Stock_Price>5778.75</Stock_Price>
+  </row>
+  <row>
+    <index>614</index>
+    <Date>2024-09-06 00:00:00</Date>
+    <Revenue>1036686.28</Revenue>
+    <Sales>73212.92</Sales>
+    <Stock_Price>6431.04</Stock_Price>
+  </row>
+  <row>
+    <index>615</index>
+    <Date>2024-09-07 00:00:00</Date>
+    <Revenue>1001938.32</Revenue>
+    <Sales>92166.16</Sales>
+    <Stock_Price>6842.72</Stock_Price>
+  </row>
+  <row>
+    <index>616</index>
+    <Date>2024-09-08 00:00:00</Date>
+    <Revenue>1001640.92</Revenue>
+    <Sales>53599.21</Sales>
+    <Stock_Price>5902.39</Stock_Price>
+  </row>
+  <row>
+    <index>617</index>
+    <Date>2024-09-09 00:00:00</Date>
+    <Revenue>1010886.5</Revenue>
+    <Sales>98159.71</Sales>
+    <Stock_Price>5684.87</Stock_Price>
+  </row>
+  <row>
+    <index>618</index>
+    <Date>2024-09-10 00:00:00</Date>
+    <Revenue>1007215.14</Revenue>
+    <Sales>59676.95</Sales>
+    <Stock_Price>6000.37</Stock_Price>
+  </row>
+  <row>
+    <index>619</index>
+    <Date>2024-09-11 00:00:00</Date>
+    <Revenue>1003358.26</Revenue>
+    <Sales>66617.47</Sales>
+    <Stock_Price>6420.84</Stock_Price>
+  </row>
+  <row>
+    <index>620</index>
+    <Date>2024-09-12 00:00:00</Date>
+    <Revenue>988142.88</Revenue>
+    <Sales>90293.64</Sales>
+    <Stock_Price>4989.3</Stock_Price>
+  </row>
+  <row>
+    <index>621</index>
+    <Date>2024-09-13 00:00:00</Date>
+    <Revenue>1007072.03</Revenue>
+    <Sales>63106.97</Sales>
+    <Stock_Price>4392.67</Stock_Price>
+  </row>
+  <row>
+    <index>622</index>
+    <Date>2024-09-14 00:00:00</Date>
+    <Revenue>1028230.37</Revenue>
+    <Sales>77877.3</Sales>
+    <Stock_Price>5614.62</Stock_Price>
+  </row>
+  <row>
+    <index>623</index>
+    <Date>2024-09-15 00:00:00</Date>
+    <Revenue>1020181.3</Revenue>
+    <Sales>70067.2</Sales>
+    <Stock_Price>5145.5</Stock_Price>
+  </row>
+  <row>
+    <index>624</index>
+    <Date>2024-09-16 00:00:00</Date>
+    <Revenue>1023897.8</Revenue>
+    <Sales>80051.68</Sales>
+    <Stock_Price>5644.3</Stock_Price>
+  </row>
+  <row>
+    <index>625</index>
+    <Date>2024-09-17 00:00:00</Date>
+    <Revenue>992331.76</Revenue>
+    <Sales>37699.25</Sales>
+    <Stock_Price>5896.55</Stock_Price>
+  </row>
+  <row>
+    <index>626</index>
+    <Date>2024-09-18 00:00:00</Date>
+    <Revenue>985155.93</Revenue>
+    <Sales>44476.35</Sales>
+    <Stock_Price>5682.73</Stock_Price>
+  </row>
+  <row>
+    <index>627</index>
+    <Date>2024-09-19 00:00:00</Date>
+    <Revenue>998113.2</Revenue>
+    <Sales>92633.62</Sales>
+    <Stock_Price>7016.73</Stock_Price>
+  </row>
+  <row>
+    <index>628</index>
+    <Date>2024-09-20 00:00:00</Date>
+    <Revenue>1000835.87</Revenue>
+    <Sales>105110.95</Sales>
+    <Stock_Price>6228.72</Stock_Price>
+  </row>
+  <row>
+    <index>629</index>
+    <Date>2024-09-21 00:00:00</Date>
+    <Revenue>1016412.87</Revenue>
+    <Sales>58598.91</Sales>
+    <Stock_Price>6210.33</Stock_Price>
+  </row>
+  <row>
+    <index>630</index>
+    <Date>2024-09-22 00:00:00</Date>
+    <Revenue>974613.03</Revenue>
+    <Sales>71568.39</Sales>
+    <Stock_Price>6435.55</Stock_Price>
+  </row>
+  <row>
+    <index>631</index>
+    <Date>2024-09-23 00:00:00</Date>
+    <Revenue>1022943.25</Revenue>
+    <Sales>84122.82</Sales>
+    <Stock_Price>5202.82</Stock_Price>
+  </row>
+  <row>
+    <index>632</index>
+    <Date>2024-09-24 00:00:00</Date>
+    <Revenue>997629.88</Revenue>
+    <Sales>94805.49</Sales>
+    <Stock_Price>6727.38</Stock_Price>
+  </row>
+  <row>
+    <index>633</index>
+    <Date>2024-09-25 00:00:00</Date>
+    <Revenue>993596.78</Revenue>
+    <Sales>41911.44</Sales>
+    <Stock_Price>5946.96</Stock_Price>
+  </row>
+  <row>
+    <index>634</index>
+    <Date>2024-09-26 00:00:00</Date>
+    <Revenue>984818.43</Revenue>
+    <Sales>59030.25</Sales>
+    <Stock_Price>6469.34</Stock_Price>
+  </row>
+  <row>
+    <index>635</index>
+    <Date>2024-09-27 00:00:00</Date>
+    <Revenue>975177.15</Revenue>
+    <Sales>69692.19</Sales>
+    <Stock_Price>5249.7</Stock_Price>
+  </row>
+  <row>
+    <index>636</index>
+    <Date>2024-09-28 00:00:00</Date>
+    <Revenue>1012347.56</Revenue>
+    <Sales>95088.13</Sales>
+    <Stock_Price>4912.37</Stock_Price>
+  </row>
+  <row>
+    <index>637</index>
+    <Date>2024-09-29 00:00:00</Date>
+    <Revenue>1001099.77</Revenue>
+    <Sales>162941.49</Sales>
+    <Stock_Price>6572.52</Stock_Price>
+  </row>
+  <row>
+    <index>638</index>
+    <Date>2024-09-30 00:00:00</Date>
+    <Revenue>980650.59</Revenue>
+    <Sales>71913.24</Sales>
+    <Stock_Price>6263.49</Stock_Price>
+  </row>
+  <row>
+    <index>639</index>
+    <Date>2024-10-01 00:00:00</Date>
+    <Revenue>980573.82</Revenue>
+    <Sales>50489.67</Sales>
+    <Stock_Price>5368.56</Stock_Price>
+  </row>
+  <row>
+    <index>640</index>
+    <Date>2024-10-02 00:00:00</Date>
+    <Revenue>994963.23</Revenue>
+    <Sales>86881.27</Sales>
+    <Stock_Price>5391.24</Stock_Price>
+  </row>
+  <row>
+    <index>641</index>
+    <Date>2024-10-03 00:00:00</Date>
+    <Revenue>1025035.32</Revenue>
+    <Sales>114452.6</Sales>
+    <Stock_Price>6787.8</Stock_Price>
+  </row>
+  <row>
+    <index>642</index>
+    <Date>2024-10-04 00:00:00</Date>
+    <Revenue>996106.13</Revenue>
+    <Sales>79540.5</Sales>
+    <Stock_Price>5167.41</Stock_Price>
+  </row>
+  <row>
+    <index>643</index>
+    <Date>2024-10-05 00:00:00</Date>
+    <Revenue>977452.86</Revenue>
+    <Sales>58666.42</Sales>
+    <Stock_Price>7149.87</Stock_Price>
+  </row>
+  <row>
+    <index>644</index>
+    <Date>2024-10-06 00:00:00</Date>
+    <Revenue>996313.85</Revenue>
+    <Sales>102643.34</Sales>
+    <Stock_Price>5369.57</Stock_Price>
+  </row>
+  <row>
+    <index>645</index>
+    <Date>2024-10-07 00:00:00</Date>
+    <Revenue>995909.15</Revenue>
+    <Sales>93965.32</Sales>
+    <Stock_Price>6446.87</Stock_Price>
+  </row>
+  <row>
+    <index>646</index>
+    <Date>2024-10-08 00:00:00</Date>
+    <Revenue>959546.7</Revenue>
+    <Sales>56601.63</Sales>
+    <Stock_Price>5769.97</Stock_Price>
+  </row>
+  <row>
+    <index>647</index>
+    <Date>2024-10-09 00:00:00</Date>
+    <Revenue>999185.58</Revenue>
+    <Sales>86339.72</Sales>
+    <Stock_Price>6422.23</Stock_Price>
+  </row>
+  <row>
+    <index>648</index>
+    <Date>2024-10-10 00:00:00</Date>
+    <Revenue>996535.98</Revenue>
+    <Sales>103859.78</Sales>
+    <Stock_Price>5619.12</Stock_Price>
+  </row>
+  <row>
+    <index>649</index>
+    <Date>2024-10-11 00:00:00</Date>
+    <Revenue>1010443.1</Revenue>
+    <Sales>109774.59</Sales>
+    <Stock_Price>5886.04</Stock_Price>
+  </row>
+  <row>
+    <index>650</index>
+    <Date>2024-10-12 00:00:00</Date>
+    <Revenue>1027734.34</Revenue>
+    <Sales>75484.5</Sales>
+    <Stock_Price>6028.64</Stock_Price>
+  </row>
+  <row>
+    <index>651</index>
+    <Date>2024-10-13 00:00:00</Date>
+    <Revenue>1016898.48</Revenue>
+    <Sales>69161.08</Sales>
+    <Stock_Price>5298.47</Stock_Price>
+  </row>
+  <row>
+    <index>652</index>
+    <Date>2024-10-14 00:00:00</Date>
+    <Revenue>995966.67</Revenue>
+    <Sales>111279.41</Sales>
+    <Stock_Price>6518.58</Stock_Price>
+  </row>
+  <row>
+    <index>653</index>
+    <Date>2024-10-15 00:00:00</Date>
+    <Revenue>983402.11</Revenue>
+    <Sales>53560.61</Sales>
+    <Stock_Price>5640.75</Stock_Price>
+  </row>
+  <row>
+    <index>654</index>
+    <Date>2024-10-16 00:00:00</Date>
+    <Revenue>1038600.4</Revenue>
+    <Sales>87832.87</Sales>
+    <Stock_Price>5839.98</Stock_Price>
+  </row>
+  <row>
+    <index>655</index>
+    <Date>2024-10-17 00:00:00</Date>
+    <Revenue>1000888.28</Revenue>
+    <Sales>51052.48</Sales>
+    <Stock_Price>5303.96</Stock_Price>
+  </row>
+  <row>
+    <index>656</index>
+    <Date>2024-10-18 00:00:00</Date>
+    <Revenue>1000208.94</Revenue>
+    <Sales>106003.8</Sales>
+    <Stock_Price>4206.37</Stock_Price>
+  </row>
+  <row>
+    <index>657</index>
+    <Date>2024-10-19 00:00:00</Date>
+    <Revenue>999638.12</Revenue>
+    <Sales>71268.07</Sales>
+    <Stock_Price>5866.28</Stock_Price>
+  </row>
+  <row>
+    <index>658</index>
+    <Date>2024-10-20 00:00:00</Date>
+    <Revenue>1002971.27</Revenue>
+    <Sales>112667.05</Sales>
+    <Stock_Price>7688.83</Stock_Price>
+  </row>
+  <row>
+    <index>659</index>
+    <Date>2024-10-21 00:00:00</Date>
+    <Revenue>997834.59</Revenue>
+    <Sales>89236.12</Sales>
+    <Stock_Price>6549.22</Stock_Price>
+  </row>
+  <row>
+    <index>660</index>
+    <Date>2024-10-22 00:00:00</Date>
+    <Revenue>991395.07</Revenue>
+    <Sales>53351.17</Sales>
+    <Stock_Price>5986.52</Stock_Price>
+  </row>
+  <row>
+    <index>661</index>
+    <Date>2024-10-23 00:00:00</Date>
+    <Revenue>991797.12</Revenue>
+    <Sales>118066.78</Sales>
+    <Stock_Price>5815.98</Stock_Price>
+  </row>
+  <row>
+    <index>662</index>
+    <Date>2024-10-24 00:00:00</Date>
+    <Revenue>999508.7</Revenue>
+    <Sales>122637.84</Sales>
+    <Stock_Price>6015.73</Stock_Price>
+  </row>
+  <row>
+    <index>663</index>
+    <Date>2024-10-25 00:00:00</Date>
+    <Revenue>991848.63</Revenue>
+    <Sales>100338.35</Sales>
+    <Stock_Price>6382.98</Stock_Price>
+  </row>
+  <row>
+    <index>664</index>
+    <Date>2024-10-26 00:00:00</Date>
+    <Revenue>989307.31</Revenue>
+    <Sales>61275.84</Sales>
+    <Stock_Price>5173.43</Stock_Price>
+  </row>
+  <row>
+    <index>665</index>
+    <Date>2024-10-27 00:00:00</Date>
+    <Revenue>1001596.45</Revenue>
+    <Sales>70249.83</Sales>
+    <Stock_Price>6780.03</Stock_Price>
+  </row>
+  <row>
+    <index>666</index>
+    <Date>2024-10-28 00:00:00</Date>
+    <Revenue>996175.34</Revenue>
+    <Sales>80438.28</Sales>
+    <Stock_Price>6500.77</Stock_Price>
+  </row>
+  <row>
+    <index>667</index>
+    <Date>2024-10-29 00:00:00</Date>
+    <Revenue>1022559.89</Revenue>
+    <Sales>62349.08</Sales>
+    <Stock_Price>6502.73</Stock_Price>
+  </row>
+  <row>
+    <index>668</index>
+    <Date>2024-10-30 00:00:00</Date>
+    <Revenue>960235.45</Revenue>
+    <Sales>127940.59</Sales>
+    <Stock_Price>6306.93</Stock_Price>
+  </row>
+  <row>
+    <index>669</index>
+    <Date>2024-10-31 00:00:00</Date>
+    <Revenue>1016372.6</Revenue>
+    <Sales>80411.72</Sales>
+    <Stock_Price>6013.73</Stock_Price>
+  </row>
+  <row>
+    <index>670</index>
+    <Date>2024-11-01 00:00:00</Date>
+    <Revenue>1018691.28</Revenue>
+    <Sales>34221.62</Sales>
+    <Stock_Price>6471.0</Stock_Price>
+  </row>
+  <row>
+    <index>671</index>
+    <Date>2024-11-02 00:00:00</Date>
+    <Revenue>968899.15</Revenue>
+    <Sales>85256.88</Sales>
+    <Stock_Price>6414.27</Stock_Price>
+  </row>
+  <row>
+    <index>672</index>
+    <Date>2024-11-03 00:00:00</Date>
+    <Revenue>994859.69</Revenue>
+    <Sales>69367.25</Sales>
+    <Stock_Price>5752.17</Stock_Price>
+  </row>
+  <row>
+    <index>673</index>
+    <Date>2024-11-04 00:00:00</Date>
+    <Revenue>994428.39</Revenue>
+    <Sales>75292.77</Sales>
+    <Stock_Price>5598.48</Stock_Price>
+  </row>
+  <row>
+    <index>674</index>
+    <Date>2024-11-05 00:00:00</Date>
+    <Revenue>978887.32</Revenue>
+    <Sales>68942.74</Sales>
+    <Stock_Price>6071.3</Stock_Price>
+  </row>
+  <row>
+    <index>675</index>
+    <Date>2024-11-06 00:00:00</Date>
+    <Revenue>988332.75</Revenue>
+    <Sales>98098.88</Sales>
+    <Stock_Price>7084.31</Stock_Price>
+  </row>
+  <row>
+    <index>676</index>
+    <Date>2024-11-07 00:00:00</Date>
+    <Revenue>983341.36</Revenue>
+    <Sales>107745.11</Sales>
+    <Stock_Price>5132.63</Stock_Price>
+  </row>
+  <row>
+    <index>677</index>
+    <Date>2024-11-08 00:00:00</Date>
+    <Revenue>1026284.06</Revenue>
+    <Sales>83828.92</Sales>
+    <Stock_Price>4972.73</Stock_Price>
+  </row>
+  <row>
+    <index>678</index>
+    <Date>2024-11-09 00:00:00</Date>
+    <Revenue>1014035.18</Revenue>
+    <Sales>69551.58</Sales>
+    <Stock_Price>6115.33</Stock_Price>
+  </row>
+  <row>
+    <index>679</index>
+    <Date>2024-11-10 00:00:00</Date>
+    <Revenue>1019073.33</Revenue>
+    <Sales>76055.31</Sales>
+    <Stock_Price>6035.62</Stock_Price>
+  </row>
+  <row>
+    <index>680</index>
+    <Date>2024-11-11 00:00:00</Date>
+    <Revenue>1010825.08</Revenue>
+    <Sales>77458.47</Sales>
+    <Stock_Price>6121.34</Stock_Price>
+  </row>
+  <row>
+    <index>681</index>
+    <Date>2024-11-12 00:00:00</Date>
+    <Revenue>983064.22</Revenue>
+    <Sales>60529.63</Sales>
+    <Stock_Price>6170.77</Stock_Price>
+  </row>
+  <row>
+    <index>682</index>
+    <Date>2024-11-13 00:00:00</Date>
+    <Revenue>992132.2</Revenue>
+    <Sales>91610.02</Sales>
+    <Stock_Price>5843.76</Stock_Price>
+  </row>
+  <row>
+    <index>683</index>
+    <Date>2024-11-14 00:00:00</Date>
+    <Revenue>1007340.62</Revenue>
+    <Sales>88400.25</Sales>
+    <Stock_Price>7042.9</Stock_Price>
+  </row>
+  <row>
+    <index>684</index>
+    <Date>2024-11-15 00:00:00</Date>
+    <Revenue>981668.08</Revenue>
+    <Sales>122240.99</Sales>
+    <Stock_Price>4879.37</Stock_Price>
+  </row>
+  <row>
+    <index>685</index>
+    <Date>2024-11-16 00:00:00</Date>
+    <Revenue>1010694.98</Revenue>
+    <Sales>112220.65</Sales>
+    <Stock_Price>5420.05</Stock_Price>
+  </row>
+  <row>
+    <index>686</index>
+    <Date>2024-11-17 00:00:00</Date>
+    <Revenue>996395.12</Revenue>
+    <Sales>62687.34</Sales>
+    <Stock_Price>5927.72</Stock_Price>
+  </row>
+  <row>
+    <index>687</index>
+    <Date>2024-11-18 00:00:00</Date>
+    <Revenue>994377.69</Revenue>
+    <Sales>98489.66</Sales>
+    <Stock_Price>4849.77</Stock_Price>
+  </row>
+  <row>
+    <index>688</index>
+    <Date>2024-11-19 00:00:00</Date>
+    <Revenue>1010664.4</Revenue>
+    <Sales>57891.82</Sales>
+    <Stock_Price>5876.9</Stock_Price>
+  </row>
+  <row>
+    <index>689</index>
+    <Date>2024-11-20 00:00:00</Date>
+    <Revenue>1006663.95</Revenue>
+    <Sales>94882.73</Sales>
+    <Stock_Price>7163.03</Stock_Price>
+  </row>
+  <row>
+    <index>690</index>
+    <Date>2024-11-21 00:00:00</Date>
+    <Revenue>994585.51</Revenue>
+    <Sales>65948.74</Sales>
+    <Stock_Price>6014.62</Stock_Price>
+  </row>
+  <row>
+    <index>691</index>
+    <Date>2024-11-22 00:00:00</Date>
+    <Revenue>1017389.95</Revenue>
+    <Sales>56649.67</Sales>
+    <Stock_Price>6161.49</Stock_Price>
+  </row>
+  <row>
+    <index>692</index>
+    <Date>2024-11-23 00:00:00</Date>
+    <Revenue>983784.05</Revenue>
+    <Sales>83753.31</Sales>
+    <Stock_Price>5117.88</Stock_Price>
+  </row>
+  <row>
+    <index>693</index>
+    <Date>2024-11-24 00:00:00</Date>
+    <Revenue>1009239.03</Revenue>
+    <Sales>34518.38</Sales>
+    <Stock_Price>5568.55</Stock_Price>
+  </row>
+  <row>
+    <index>694</index>
+    <Date>2024-11-25 00:00:00</Date>
+    <Revenue>1008896.52</Revenue>
+    <Sales>45539.01</Sales>
+    <Stock_Price>5737.36</Stock_Price>
+  </row>
+  <row>
+    <index>695</index>
+    <Date>2024-11-26 00:00:00</Date>
+    <Revenue>995356.8</Revenue>
+    <Sales>73011.32</Sales>
+    <Stock_Price>5777.6</Stock_Price>
+  </row>
+  <row>
+    <index>696</index>
+    <Date>2024-11-27 00:00:00</Date>
+    <Revenue>1004892.0</Revenue>
+    <Sales>78932.62</Sales>
+    <Stock_Price>6897.15</Stock_Price>
+  </row>
+  <row>
+    <index>697</index>
+    <Date>2024-11-28 00:00:00</Date>
+    <Revenue>981233.3</Revenue>
+    <Sales>68928.27</Sales>
+    <Stock_Price>6390.38</Stock_Price>
+  </row>
+  <row>
+    <index>698</index>
+    <Date>2024-11-29 00:00:00</Date>
+    <Revenue>1013860.41</Revenue>
+    <Sales>47943.88</Sales>
+    <Stock_Price>5221.98</Stock_Price>
+  </row>
+  <row>
+    <index>699</index>
+    <Date>2024-11-30 00:00:00</Date>
+    <Revenue>997226.47</Revenue>
+    <Sales>60249.51</Sales>
+    <Stock_Price>6172.55</Stock_Price>
+  </row>
+  <row>
+    <index>700</index>
+    <Date>2024-12-01 00:00:00</Date>
+    <Revenue>992159.15</Revenue>
+    <Sales>86593.51</Sales>
+    <Stock_Price>6348.76</Stock_Price>
+  </row>
+  <row>
+    <index>701</index>
+    <Date>2024-12-02 00:00:00</Date>
+    <Revenue>1015735.14</Revenue>
+    <Sales>91688.47</Sales>
+    <Stock_Price>6798.1</Stock_Price>
+  </row>
+  <row>
+    <index>702</index>
+    <Date>2024-12-03 00:00:00</Date>
+    <Revenue>989434.84</Revenue>
+    <Sales>76630.5</Sales>
+    <Stock_Price>7106.38</Stock_Price>
+  </row>
+  <row>
+    <index>703</index>
+    <Date>2024-12-04 00:00:00</Date>
+    <Revenue>978873.08</Revenue>
+    <Sales>108952.52</Sales>
+    <Stock_Price>5289.43</Stock_Price>
+  </row>
+  <row>
+    <index>704</index>
+    <Date>2024-12-05 00:00:00</Date>
+    <Revenue>976650.56</Revenue>
+    <Sales>86754.4</Sales>
+    <Stock_Price>5432.4</Stock_Price>
+  </row>
+  <row>
+    <index>705</index>
+    <Date>2024-12-06 00:00:00</Date>
+    <Revenue>1009090.15</Revenue>
+    <Sales>61536.18</Sales>
+    <Stock_Price>5119.7</Stock_Price>
+  </row>
+  <row>
+    <index>706</index>
+    <Date>2024-12-07 00:00:00</Date>
+    <Revenue>980793.56</Revenue>
+    <Sales>70789.55</Sales>
+    <Stock_Price>5836.19</Stock_Price>
+  </row>
+  <row>
+    <index>707</index>
+    <Date>2024-12-08 00:00:00</Date>
+    <Revenue>1026321.91</Revenue>
+    <Sales>50551.98</Sales>
+    <Stock_Price>6326.45</Stock_Price>
+  </row>
+  <row>
+    <index>708</index>
+    <Date>2024-12-09 00:00:00</Date>
+    <Revenue>968771.06</Revenue>
+    <Sales>74546.3</Sales>
+    <Stock_Price>6691.13</Stock_Price>
+  </row>
+  <row>
+    <index>709</index>
+    <Date>2024-12-10 00:00:00</Date>
+    <Revenue>1025446.85</Revenue>
+    <Sales>107500.15</Sales>
+    <Stock_Price>5946.83</Stock_Price>
+  </row>
+  <row>
+    <index>710</index>
+    <Date>2024-12-11 00:00:00</Date>
+    <Revenue>1003165.26</Revenue>
+    <Sales>94580.29</Sales>
+    <Stock_Price>5776.11</Stock_Price>
+  </row>
+  <row>
+    <index>711</index>
+    <Date>2024-12-12 00:00:00</Date>
+    <Revenue>998549.3</Revenue>
+    <Sales>117268.34</Sales>
+    <Stock_Price>6106.23</Stock_Price>
+  </row>
+  <row>
+    <index>712</index>
+    <Date>2024-12-13 00:00:00</Date>
+    <Revenue>991826.21</Revenue>
+    <Sales>70315.8</Sales>
+    <Stock_Price>5415.4</Stock_Price>
+  </row>
+  <row>
+    <index>713</index>
+    <Date>2024-12-14 00:00:00</Date>
+    <Revenue>1005987.04</Revenue>
+    <Sales>115317.82</Sales>
+    <Stock_Price>7462.68</Stock_Price>
+  </row>
+  <row>
+    <index>714</index>
+    <Date>2024-12-15 00:00:00</Date>
+    <Revenue>999435.48</Revenue>
+    <Sales>72665.8</Sales>
+    <Stock_Price>4874.64</Stock_Price>
+  </row>
+  <row>
+    <index>715</index>
+    <Date>2024-12-16 00:00:00</Date>
+    <Revenue>1016549.53</Revenue>
+    <Sales>119741.78</Sales>
+    <Stock_Price>6129.32</Stock_Price>
+  </row>
+  <row>
+    <index>716</index>
+    <Date>2024-12-17 00:00:00</Date>
+    <Revenue>1001713.41</Revenue>
+    <Sales>76501.09</Sales>
+    <Stock_Price>7416.52</Stock_Price>
+  </row>
+  <row>
+    <index>717</index>
+    <Date>2024-12-18 00:00:00</Date>
+    <Revenue>1002254.53</Revenue>
+    <Sales>95204.91</Sales>
+    <Stock_Price>6004.76</Stock_Price>
+  </row>
+  <row>
+    <index>718</index>
+    <Date>2024-12-19 00:00:00</Date>
+    <Revenue>994545.82</Revenue>
+    <Sales>119868.55</Sales>
+    <Stock_Price>5866.97</Stock_Price>
+  </row>
+  <row>
+    <index>719</index>
+    <Date>2024-12-20 00:00:00</Date>
+    <Revenue>999145.82</Revenue>
+    <Sales>72663.11</Sales>
+    <Stock_Price>5749.79</Stock_Price>
+  </row>
+  <row>
+    <index>720</index>
+    <Date>2024-12-21 00:00:00</Date>
+    <Revenue>1004617.03</Revenue>
+    <Sales>82218.37</Sales>
+    <Stock_Price>5873.73</Stock_Price>
+  </row>
+  <row>
+    <index>721</index>
+    <Date>2024-12-22 00:00:00</Date>
+    <Revenue>974347.47</Revenue>
+    <Sales>113354.61</Sales>
+    <Stock_Price>6960.99</Stock_Price>
+  </row>
+  <row>
+    <index>722</index>
+    <Date>2024-12-23 00:00:00</Date>
+    <Revenue>979777.22</Revenue>
+    <Sales>73992.31</Sales>
+    <Stock_Price>4451.7</Stock_Price>
+  </row>
+  <row>
+    <index>723</index>
+    <Date>2024-12-24 00:00:00</Date>
+    <Revenue>1011148.96</Revenue>
+    <Sales>51810.58</Sales>
+    <Stock_Price>7073.4</Stock_Price>
+  </row>
+  <row>
+    <index>724</index>
+    <Date>2024-12-25 00:00:00</Date>
+    <Revenue>1002562.98</Revenue>
+    <Sales>146461.73</Sales>
+    <Stock_Price>5003.23</Stock_Price>
+  </row>
+  <row>
+    <index>725</index>
+    <Date>2024-12-26 00:00:00</Date>
+    <Revenue>997240.25</Revenue>
+    <Sales>66882.19</Sales>
+    <Stock_Price>5813.34</Stock_Price>
+  </row>
+  <row>
+    <index>726</index>
+    <Date>2024-12-27 00:00:00</Date>
+    <Revenue>1000276.51</Revenue>
+    <Sales>80760.57</Sales>
+    <Stock_Price>5699.53</Stock_Price>
+  </row>
+  <row>
+    <index>727</index>
+    <Date>2024-12-28 00:00:00</Date>
+    <Revenue>1005213.73</Revenue>
+    <Sales>108925.49</Sales>
+    <Stock_Price>6411.99</Stock_Price>
+  </row>
+  <row>
+    <index>728</index>
+    <Date>2024-12-29 00:00:00</Date>
+    <Revenue>991903.6</Revenue>
+    <Sales>64155.76</Sales>
+    <Stock_Price>4881.31</Stock_Price>
+  </row>
+  <row>
+    <index>729</index>
+    <Date>2024-12-30 00:00:00</Date>
+    <Revenue>988325.43</Revenue>
+    <Sales>56911.74</Sales>
+    <Stock_Price>6323.52</Stock_Price>
+  </row>
+  <row>
+    <index>730</index>
+    <Date>2024-12-31 00:00:00</Date>
+    <Revenue>1002937.68</Revenue>
+    <Sales>83094.89</Sales>
+    <Stock_Price>7417.02</Stock_Price>
+  </row>
+</data>
