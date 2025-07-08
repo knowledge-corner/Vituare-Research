@@ -9,3 +9,5 @@ def print_x():
 
 x = 10
 print_x()
+
+print("Hello")
